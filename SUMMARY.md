@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [My Design Process](my-design-process.md)
+* [My Design Process](my-design-process/README.md)
+  * [Design Process Outline](my-design-process/design-process-outline.md)
 * [Theory](theory/README.md)
   * [Gestalt Principles](theory/gestalt-principles.md)
   * [Design Styles](theory/design-styles.md)
@@ -17,5 +18,7 @@
   * [Interview Questions](careers/interview-questions.md)
 * [Tools](tools/README.md)
   * [Version Control](tools/version-control.md)
+  * [Wiki / Notes / Documentation](tools/wiki.md)
 * [Links](links.md)
+* [tbd](tbd.md)
 
