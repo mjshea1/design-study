@@ -16,8 +16,6 @@ description: >-
 * [7 Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2) - Clarity, Readability, Alignment, Brevity, Consistency, Personality, Ease of Use.
 * [Project Worlds — Achieving God Mode in Digital Design](https://uxdesign.cc/project-worlds-achieving-god-mode-in-digital-design-b7242dbe5770)
 
-
-
 ## Methods
 
 * [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/) - Brad Frost
@@ -39,8 +37,6 @@ description: >-
 * [What is a Design System?](https://rangle.io/blog/what-is-a-design-system/)
 * [Visual Breaking Change in Design Systems](https://medium.com/eightshapes-llc/visual-breaking-change-in-design-systems-1e9109fac9c4)
 * [Bye bye Material Design](https://medium.com/techtrument/bye-bye-material-design-acaebcc7c6b4)
-
-
 
 ## Practice
 
