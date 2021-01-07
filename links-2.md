@@ -47,3 +47,5 @@ description: >-
 * [Desktop Screen Resolution Stats](https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide)
 * [Checklists for Design](https://www.checklist.design/)
 
+More
+
