@@ -16,6 +16,7 @@
 * [Accessibility](accessibility.md)
 * [Careers](careers/README.md)
   * [Interview Questions](careers/interview-questions.md)
+  * [Salary Research](careers/salary-research.md)
 * [Tools](tools/README.md)
   * [Version Control](tools/version-control.md)
   * [Wiki / Notes / Documentation](tools/wiki.md)
