@@ -20,6 +20,6 @@
 * [Tools](tools/README.md)
   * [Version Control](tools/version-control.md)
   * [Wiki / Notes / Documentation](tools/wiki.md)
-* [Links](links.md)
-* [tbd](tbd.md)
+* [Links](links/README.md)
+  * [tbd](links/tbd.md)
 
