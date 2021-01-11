@@ -2,7 +2,9 @@
 
 A design system unites product teams around a common visual language. It reduces design debt, accelerates the design process, and builds bridges between teams working in concert to bring products to life. Learn how you can create your design system and help your team improve product quality while reducing design debt.
 
-## **Notes From:**
+## **Design System Study**
+
+#### Notes From:
 
 {% embed url="https://www.designbetter.co/design-systems-handbook/designing-design-system" %}
 
@@ -139,6 +141,8 @@ A design system unites product teams around a common visual language. It reduces
       * Start with an audit, Define the findings, Get buy-in, find a home, develop
 
  
+
+#### Comparison of popular design systems:
 
 {% page-ref page="../practice/design-system-chart.md" %}
 

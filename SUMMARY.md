@@ -12,7 +12,7 @@
 * [Practice](practice/README.md)
   * [Design System Chart](practice/design-system-chart.md)
   * [Design System Components](practice/design-systems.md)
-  * [Type](practice/untitled-1.md)
+  * [Typography](practice/typography.md)
 * [Accessibility](accessibility.md)
 * [Career](career/README.md)
   * [Leadership](career/leadership.md)

@@ -27,6 +27,8 @@ The purpose of a design brief is to capture the key details of a project and ens
 
 References: [Your guide to writing design briefs](https://www.invisionapp.com/inside-design/writing-design-briefs/), [How to write a design brief that gets you results](https://www.canva.com/learn/effective-design-brief/)
 
+ 
+
 ## Empathize
 
 ### Conduct Research
@@ -50,7 +52,9 @@ User research is the lifeblood of a project. The things that are discovered and 
 * **Feature Matrix:** a tool to compare the value and cost of features in products to determine the minimum viable product with a feature
 * **Competitor Analysis:** a process that compares how others are currently trying to solve a similar problem
 
-  References: [UX Design Processes](https://www.uxbeginner.com/ux-design-processes/), [The UX design process in 6 stages](https://www.invisionapp.com/inside-design/6-stages-ux-process/)
+References: [UX Design Processes](https://www.uxbeginner.com/ux-design-processes/), [The UX design process in 6 stages](https://www.invisionapp.com/inside-design/6-stages-ux-process/)
+
+ 
 
 ### Understand Users
 
@@ -63,6 +67,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 #### ‣ User Persona’s
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+ 
 
 ## Define
 
@@ -95,6 +101,8 @@ Wireframing is an important part of the design process and is often done during 
 
   References: [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html), [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
 
+ 
+
 ## Ideate
 
 ### Gather Inspiration
@@ -108,6 +116,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 #### ‣ Collections
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+ 
 
 ### Explore Solutions
 
@@ -133,6 +143,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 * **Crowdstorming:** target audiences generate and validate ideas through feedback \(e.g., social media\) to provide valuable solution insights
 * **Creative Pause:** taking time to pull back from obstacles
 
+ 
+
 ## Refine
 
 ### Finalize Solutions
@@ -147,6 +159,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+ 
+
 ### Test Solutions
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
@@ -158,6 +172,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 #### ‣ User Research
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+ 
 
 ## Deliver
 
@@ -177,9 +193,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+ 
+
 ### Scrubbing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+ 
 
 ## Evolve
 
@@ -188,6 +208,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 Designers and evaluators rigorously test the design in a variety of ways. Prototypes are shared and tested within a team, in other departments, or with a small group of reviewers. In an **iterative process**, the results generated are often used to redefine one or more problems and can inform the understanding of the users, the conditions of use, how people think, behave, feel, and to empathize. It is very common to visit previous phases to make additional iterations, alterations and refinements.
 
 By the end of this phase, I have a better understanding of the constraints inherent to the project and the problems that are present, and have a clearer view of how real users would behave, think, and feel when interacting to the design.
+
+ 
 
 ### Incorporate Feedback
 
