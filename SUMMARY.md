@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Matthew Shea Design Study](README.md)
 * [My Design Process](my-design-process/README.md)
   * [Design Process Outline](my-design-process/design-process-outline.md)
 * [Theory](theory/README.md)
@@ -24,6 +24,7 @@
   * [Wiki / Notes / Documentation](tools/wiki.md)
   * [Writing](tools/writing.md)
 * [Links](links/README.md)
-  * [tbd](links/tbd.md)
-* [Side Hustle](side-hustle.md)
+  * [New](links/new.md)
+* [Subsidiary](subsidiary/README.md)
+  * [Side Hustle](subsidiary/side-hustle.md)
 
