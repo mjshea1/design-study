@@ -4,7 +4,7 @@ sidebarDepth: 1
 description: The many careers of design and the rapidly changing landscape.
 ---
 
-# 💻 Career
+# Career
 
 ### User Experience Designer
 

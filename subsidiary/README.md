@@ -1,2 +1,2 @@
-# 🧪 Subsidiary
+# Subsidiary
 

@@ -4,7 +4,7 @@ sidebarDepth: 1
 description: Methods are how you do something.
 ---
 
-# 📐 Method
+# Method
 
 Design methods are procedures, techniques, aids, or tools for designing. They offer a number of different kinds of activities that a designer might use within an overall design process.
 
