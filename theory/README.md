@@ -4,7 +4,7 @@ sidebarDepth: 1
 description: Theory is the why you are doing something in some mannor.
 ---
 
-# Theory
+# ♟️ Theory
 
 Design theory is a subfield of design research concerned with various theoretical approaches towards understanding and delineating design principles, design knowledge, and design practice. It is asking and answering the question “Why am I designing it this way?” If you can’t answer that question at every stage of the design process, you probably need to do a bit more thinking.
 

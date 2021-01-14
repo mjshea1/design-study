@@ -3,7 +3,7 @@ title: Tools
 sidebarDepth: 1
 ---
 
-# Tools
+# 🛠️ Tools
 
 ## Sketch
 

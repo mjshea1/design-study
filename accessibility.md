@@ -1,6 +1,4 @@
----
-description: This section for future research.
----
+# 🎚️ Accessibility
 
-# Accessibility
+This section is for future research.
 
