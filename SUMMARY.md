@@ -27,4 +27,5 @@
   * [New](links/new.md)
 * [Subsidiary](subsidiary/README.md)
   * [Side Hustle](subsidiary/side-hustle.md)
+  * [Study Setup](subsidiary/study-setup.md)
 
