@@ -2,8 +2,6 @@
 
 ![](.gitbook/assets/banner.png)
 
- 
-
 {% embed url="http://www.matthewsheadesign.com" %}
 
 I’m **Matthew Shea**, a UI/UX Designer and creative leader. I’ve spent **15 years** as a designer at award-winning software design & development studios, universities, newspaper publications, and agencies.
