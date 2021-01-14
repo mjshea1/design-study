@@ -4,13 +4,13 @@ sidebarDepth: 1
 description: Theory is the why you are doing something in some mannor.
 ---
 
-# Theory
+# ⚓ Theory
 
-Design theory is a subfield of design research concerned with various theoretical approaches towards understanding and delineating design principles, design knowledge, and design practice. It is asking and answering the question “Why am I designing it this way?” If you can’t answer that question at every stage of the design process, you probably need to do a bit more thinking.
+Design theory is a subfield of design research concerned with various theoretical approaches towards understanding and delineating design principles, design knowledge, and design practice. It is asking and answering the question “Why am I designing it this way?” If you can’t answer that question at every stage of the design process, you probably need to do a bit more thinking. ⚓
 
 ## Universal Principles of Design
 
-### ‣ 80/20 Rule
+### ⚓ 80/20 Rule
 
 A high percentage of effects in any large system are caused by a low percent of variables.
 
