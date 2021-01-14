@@ -3,7 +3,7 @@
 * [Hello!](README.md)
 * [My Design Process](my-design-process/README.md)
   * [Design Process Outline](my-design-process/design-process-outline.md)
-* [⚓ Theory](theory/README.md)
+* [Theory](theory/README.md)
   * [Gestalt Principles](theory/gestalt-principles.md)
   * [Design Styles](theory/design-styles.md)
   * [Design Quotes](theory/design-quotes.md)
