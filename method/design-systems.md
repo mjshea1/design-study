@@ -1,3 +1,9 @@
+---
+description: >-
+  A design system is a collection of reusable principles; design tokens,
+  elements or components, and patterns. Combine these to create templates.
+---
+
 # Design Systems
 
 A design system unites product teams around a common visual language. It reduces design debt, accelerates the design process, and builds bridges between teams working in concert to bring products to life. Learn how you can create your design system and help your team improve product quality while reducing design debt.

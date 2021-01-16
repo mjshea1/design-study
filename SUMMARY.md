@@ -24,7 +24,7 @@
   * [Wiki / Notes / Documentation](tools/wiki.md)
   * [Writing](tools/writing.md)
 * [Links](links/README.md)
-  * [Shops](links/shops.md)
+  * [More](links/more.md)
   * [New](links/new.md)
 * [Subsidiary](subsidiary/README.md)
   * [Side Hustle](subsidiary/side-hustle.md)
