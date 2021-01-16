@@ -1,103 +1,33 @@
 ---
 title: Theory
 sidebarDepth: 1
-description: Theory is the why you are doing something in some mannor.
+description: >-
+  Theory is a system of ideas intended to explain something, especially one
+  based on general principles independent of the thing to be explained.
 ---
 
 # Theory
 
-Design theory is a subfield of design research concerned with various theoretical approaches towards understanding and delineating design principles, design knowledge, and design practice. It is asking and answering the question “Why am I designing it this way?” If you can’t answer that question at every stage of the design process, you probably need to do a bit more thinking.
+## Definition
 
-## Universal Principles of Design
+Design theory is a subfield of design research concerned with various theoretical approaches towards understanding and delineating design principles, design knowledge, and design practice. It is asking and answering the question “Why am I designing it this way?” There should be a answer for this question at every stage of the design process.
 
-### ‣ 80/20 Rule
+## Quiz
 
-A high percentage of effects in any large system are caused by a low percent of variables.
+[Google Quiz](https://docs.google.com/forms/d/1GDjEeL2Py0OD2vVNbssze8cs2pibrY2Oog9rcN92QdE/edit?usp=sharing)
 
-* useful for focusing resources and realizing greater efficiencies in design
-* can be used to assess the value of elements to target areas of redesign and optimization
-* noncritical functions of that are part of the less-important 80 should be minimized or removed from the design
+Study Guide
 
-### ‣ Accessibility
+## Links
 
-Objects and environments should be designed to be usable, without modification, by as many people as possible.
-
-* **Perceptibility**: when everyone can perceive the design, regardless of sensory abilities
-* **Operability**: when everyone can use the design, regardless of physical abilities
-* **Simplicity**: when everyone can easily understand and use the design, regardless of experience, literacy, or concentration level
-* **Forgiveness**: when designs minimize the occurrence and consequences of errors
-
-### ‣ Aesthetic-Visability Effect
-
-Aesthetic designs are perceived as easier to use than less-aesthetic designs.
-
-* more usable but less aesthetic design may suffer a lack of acceptance that renders issues of usability moot
-
-### ‣ Affordance
-
-A property in which the physical characteristics of an object or environment influence its function.
-
-### ‣ Alignment
-
-The placement of elements such that edges line up along columns, or their bodies along a common center.
-
-* This creates a sense of unity and cohesion, and contributes to the design aesthetic and perceived stability
-
-### ‣ Anthropomorphic Form
-
-A tendency to find forms that appear humanoid or exhibit humanlike characteristics appealing.
-
-* **Feminine Proportions**: sexuality and vitality
-* **Round Forms**: babylike associations
-* **Angular Forms**: masculine and aggressive associations
-
-### ‣ Archetypes
-
-Universal patterns of theme and form resulting from innate biases or dispositions.
-
-* The probability of success increasses when the archetypes align with the design
-* Especially useful when traditional modes of communication \(language\) cannot be used
-
-### ‣ Area Alignment
-
-Alignment based on the area of elements versus the edge of elements.
-
-* This applies to text and graphical elements
-* numbered or bulleted items should be aligned by the text and not the number or bullet
-
-### ‣ Closure
-
-A tendency to perceive a set of individual elements as a single, recognizable pattern, rather than multiple individual elements. One of Gestalt Principles of Perception.
-
-* we have an innate preference for simplicity over complexity, and pattern over randomness
-* when designs involve complex patterns, consider the use of transitional elements to assist viewers in finding or forming the pattern
-
-### ‣ Common Fate
-
-Elements that move in the same direction are perceived to be more related than elements that move in different directions or are stationary. One of Gestalt Principles of Perception.
-
-### ‣ Comparison
-
-A method of illustrating relationships and patterns in system behaviors by representing two or more system variables in a controlled way.
-
-Key techniques for making valid comparisons are:
-
-* **Apples to Apples**: data should be presented using common measures and common units accounting for differences in variables
-* **Single Context**: data should be presented in a single context, so subtle differences and patterns are detectable
-* **Benchmarks**: data should be accompanied by benchmark variables so that clear and substantive comparisons can be made
-
-### ‣ Confirmation
-
-A technique for preventing unintended actions by requiring verification of the actions before they are performed \(Verification Principle\).
-
-Use confirmation to minimize errors in the performance of critical or irreversible operations.
-
-### ‣ Consistency
-
-The usability and learnability of a system is improved when similar parts are expressed in similar ways. But do not compromise clarity or usability for consistency.
-
-* **Aesthetic**: consistency of style and appearance - improves recognition, membership, emotional expectations
-* **Functional**: consistency of meaning and action - improves usability and learnability
-* **Internal**: data should be accompanied by benchmark variables so that clear and substantive comparisons can be made
-* **External**: consistency with other elements in the environment - benefits other consistencies
+|  | Link | ✓ |
+| :--- | :--- | ---: |
+| **1** | [Collection of Design Principles](https://principles.design/) |  |
+| **2** | [Understanding design thinking](https://uxplanet.org/understanding-design-thinking-32a86b9eab27) |  |
+| **3** | [Dieter Rams: 10 Timeless Commandments for Good Design](https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design) |  |
+| **4** | [Gestalt principles in UI design.](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965) | ✓ |
+| **5** | [Psychology in Design. Principles Helping to Understand Users.](https://uxplanet.org/psychology-in-design-principles-helping-to-understand-users-10bcf122f4b0) |  |
+| **6** | [7 Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2) |  |
+| **7** | [Graphic Design Styles](https://medium.com/@bhattifaizan/graphic-design-styles-fa85aff1ff69) |  |
+| **8** | [Project Worlds — Achieving God Mode in Digital Design](https://uxdesign.cc/project-worlds-achieving-god-mode-in-digital-design-b7242dbe5770) |  |
 
