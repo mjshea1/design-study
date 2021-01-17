@@ -53,6 +53,8 @@ This is my collection of links and resources I've collected over the past few ye
 | **2** | [M-Enabling Summit](https://m-enabling.com/) | Yearly | Web Accessability |
 | **3** | [Learn Design System](https://www.learndesignsystem.com/resources) | Ongoing | Various Topics |
 
+ 
+
 ## Resources
 
 |  | Link | Description |
