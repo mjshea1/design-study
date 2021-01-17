@@ -22,7 +22,7 @@ The best UI design tools can fit almost every design process, and hopefully meet
 
 ### Archive
 
-In design, tools can become outdated and new, more capables ones can emerge.
+In design, tools become outdated and new, more capables ones take their place.
 
 |  | Link | Description |
 | :--- | :--- | :--- |
