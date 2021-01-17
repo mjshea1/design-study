@@ -5,23 +5,26 @@ sidebarDepth: 1
 
 # Tools
 
-## Sketch
+## Design Tools
 
-Sketch is a vector graphics editor for macOS developed by the Dutch company Sketch B.V. It was first released on 7 September 2010. It is primarily used for user interface and user experience design of websites and mobile apps and does not include print design features. Sketch has more recently added features for prototyping and collaboration. Being only available for macOS, third party software and handoff tools may be used to view Sketch designs on other platforms.
+The best UI design tools can fit almost every design process, and hopefully meet your creative requirements. Now is such a great time to explore new tools and see what's available to design and showcase your projects.
 
-### Sketch Plug-ins
+## Links
 
-There are hundreds of Sketch plugins, and more released every day. These plugins are the ones I use for boosting my productivity, speed, organization and creativity.
+|  | Link | Description |
+| :--- | :--- | :--- |
+| **1** | [Habitica](https://habitica.com/static/home) | Motivate yourself to achieve your goals |
+| **2** | [Mobin](https://mobbin.design/) | Discover the latest iOS UI design patterns |
+| **3** | [MindManager](https://www.mindjet.com/mindmanager/) | Powerful & Flexible Mind Mapping Tool |
+| **4** | [Milanote](https://milanote.com/) | An easy-to-use tool to organize your ideas and projects into visual boards |
+| **5** | [OmniOutliner](https://www.omnigroup.com/omnioutliner) | Capture and organize big ideas |
+| **6** | [UXPin](https://www.uxpin.com/) | Tool to design, prototype and collaborate |
 
-| Plugin | Description |
-| :--- | :--- |
-| [Midnight - Dark Theme](https://midnightsketch.com/) | Applies dark theme and helps with organization |
-| [Rename It](https://github.com/rodi01/RenameIt) | for organization, rename layers and artboards in batches |
-| [Runner](https://sketchrunner.com/) | helps you to get around Sketch quicker |
-| [Spellcheck](https://github.com/Tallwave/sketch-spellcheck-all-layers) | A basic spellchecker that checks all layers on a page |
-| [Stark](https://github.com/stark-contrast/stark-sketch-plugin) | ensure your design is accessible and high contrast |
-| [Symbol-Instance-Renamer](https://github.com/sonburn/symbol-instance-renamer) | rename symbol instances to the name of their master |
-| [Symbol-Organizer](https://github.com/sonburn/symbol-organizer) | Organize your symbols page into groupings by symbol names |
+### Archive
 
+In design, tools can become outdated and new, more capables ones can emerge.
 
+|  | Link | Description |
+| :--- | :--- | :--- |
+| **1** | [Design Report 2018](https://avocode.com/design-report-2018) | The state of design tools and trends in 2018 |
 

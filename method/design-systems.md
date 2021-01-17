@@ -1,3 +1,9 @@
+---
+description: >-
+  A design system is a collection of reusable principles; design tokens,
+  elements or components, and patterns. Combine these to create templates.
+---
+
 # Design Systems
 
 A design system unites product teams around a common visual language. It reduces design debt, accelerates the design process, and builds bridges between teams working in concert to bring products to life. Learn how you can create your design system and help your team improve product quality while reducing design debt.
@@ -145,6 +151,25 @@ A design system unites product teams around a common visual language. It reduces
 #### Comparison of popular design systems:
 
 {% page-ref page="../practice/design-system-chart.md" %}
+
+## Design Systems
+
+These are the major design systems setting industry standard:
+
+|  | Link | Owner |
+| :--- | :--- | ---: |
+| **1** | [Material Design](https://material.io/) | Google |
+| **2** | [Angular Material](https://material.io/) | Google |
+| **3** | [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | Apple |
+| **4** | [Atlassian Design System](https://atlassian.design/) | Atlassian |
+| **5** | [Spectrum](https://spectrum.adobe.com/) | Adobe |
+| **6** | [IBM Design Language](https://www.ibm.com/design/language/) | IBM |
+| **7** | [U.S. Web Design System](https://designsystem.digital.gov/) | U.S. Government |
+| **8** | [Lightnight Design System](https://www.lightningdesignsystem.com/) | Salesforce |
+| **9** | [Polaris](https://polaris.shopify.com/) | Shopify |
+| **10** | [A-Frame](https://aframe.io/) | 3D  |
+
+Repository of design systems and pattern libraries: [Adele](http://adele.uxpin.com/)
 
 ## Links
 

@@ -50,3 +50,20 @@ In a nutshell, VX is like UX, but with motion. VX is a holistic approach, always
 
 * [A guide to design roles in the tech](https://medium.com/getting-started-as-a-designer/a-guide-to-design-roles-in-the-tech-ecosystem-2019-f2df1ff1c64e)
 
+## Links
+
+|  | Link | ✓ |
+| :--- | :--- | ---: |
+| **1** | [Design in Tech Reports](https://designintech.report/) |  |
+| **2** | [What’s the impact of Design, you ask?](https://uxdesign.cc/whats-the-impact-of-design-you-ask-31922d394956) |  |
+| **3** | [Productivity Is Really About What You Don’t Do](https://jkglei.com/getting-things-done/) |  |
+| **4** | [The Art of Giving Amazing Portfolio Presentations](https://medium.muz.li/the-art-of-giving-amazing-portfolio-presentations-656cddcd69a) |  |
+| **5** | [Get any UX job with a stellar portfolio presentation](https://uxplanet.org/get-any-design-job-with-a-stellar-portfolio-presentation-by-reading-this-1b9ede9a479a) |  |
+| **6** | [Making Profit from a Design System](https://medium.com/sketch-app-sources/making-profit-from-a-design-system-a78eea017104) |  |
+| **8** | [Product Designers Should Forget About Coding. Learn Product Management Instead.](https://medium.com/hubspot-product/designers-should-forget-about-coding-learn-product-management-instead-5285b538b364) |  |
+| **9** | [DesignOps 101](https://www.nngroup.com/articles/design-operations-101/) |  |
+| **10** | [Designing a Systems Team](https://medium.com/eightshapes-llc/designing-a-systems-team-d22f27a2d81d) | ✓ |
+| **11** | [Science-backed ways to boost creativity](https://uxplanet.org/science-backed-ways-to-boost-creativity-28b140b420bc) |  |
+
+
+

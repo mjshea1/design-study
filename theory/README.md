@@ -10,15 +10,15 @@ description: >-
 
 ## Definition
 
-Design theory is a subfield of design research concerned with various theoretical approaches towards understanding and delineating design principles, design knowledge, and design practice. It is asking and answering the question “Why am I designing it this way?” There should be a answer for this question at every stage of the design process.
+Design theory is a subfield of **design research** concerned with various theoretical approaches towards **understanding and delineating design principles**, design knowledge, and design practice. It is asking and answering the question “**Why am I designing it this way?**” There should be a answer for this question at every stage of the design process.
 
 ## Quizzes
 
 To retain knowlege I have set up some self assessment questions.
 
-📝 **Main Quiz** → Answer List
+📝 **Design Theory** → Answer List
 
-📝 **Universal Princples of Design Quiz** → Answer List
+📝 **Universal Principles of Design** → Answer List
 
 ## Links
 
