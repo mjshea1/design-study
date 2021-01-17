@@ -1,8 +1,6 @@
 # Design Process Outline
 
-
-
-#### Introduction
+**Introduction**
 
 * Project Plan \(thing\)
 * Project Brief \(thing\)

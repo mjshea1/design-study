@@ -1,4 +1,4 @@
-# Universal Principles of Design
+# Universal Principles
 
 ## 80/20 Rule
 

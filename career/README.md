@@ -1,7 +1,7 @@
 ---
 title: Career
 sidebarDepth: 1
-description: The many careers of design and the rapidly changing landscape.
+description: The many careers of design and the rapidly changing landscape of titles.
 ---
 
 # Career

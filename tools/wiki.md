@@ -1,10 +1,10 @@
 # Wiki / Notes / Documentation
 
+## Research
+
 I have looked forever and conducted extended research on how to organize and display my design study. I tried so many program and wasted to much time reworking my notes until I finally found GitBook.
 
-
-
-## Inspirational Wikis
+### Inspirational Wikis
 
 * [Everything I know](https://wiki.nikitavoloboev.xyz) - Nikita Voloboev
   * [https://wiki.nikitavoloboev.xyz/other/wiki-workflow\#similar-wikis-i-liked](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
