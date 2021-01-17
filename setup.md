@@ -1,3 +1,7 @@
+---
+description: Setup and notes for my study site.
+---
+
 # ‣
 
 ## Emoji
