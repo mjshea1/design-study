@@ -9,6 +9,7 @@
   * [Design Styles](theory/design-styles.md)
   * [Design Quotes](theory/design-quotes.md)
 * [Method](method/README.md)
+  * [Atomic Design](method/atomic-design.md)
   * [Design Systems](method/design-systems.md)
 * [Practice](practice/README.md)
   * [Design System Chart](practice/design-system-chart.md)

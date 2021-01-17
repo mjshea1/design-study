@@ -14,9 +14,11 @@ Design theory is a subfield of design research concerned with various theoretica
 
 ## Quizzes
 
-\*\*\*\*[**Main Quiz**](https://forms.gle/pmForV9h2gny81bs8) - Answer List
+To retain knowlege I have set up some self assessment questions.
 
-Universal Princples of Design Quiz - Answer List
+📝 **Main Quiz** → Answer List
+
+📝 **Universal Princples of Design Quiz** → Answer List
 
 ## Links
 
