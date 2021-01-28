@@ -17,6 +17,7 @@
   * [Color](practice/color.md)
   * [Typography](practice/typography/README.md)
     * [Links and Resources](practice/typography/links-resources.md)
+  * [Design Reviews](practice/design-reviews.md)
 * [Accessibility](accessibility.md)
 * [Career](career/README.md)
   * [Training](career/training.md)
