@@ -30,3 +30,11 @@ This checklist is from [Shift Nudge](https://shiftnudge.com), series of online l
 * `Developer` - Are you using `<strong>` and `<emphasis>` appropriately with semantic markup?
 * `Developer` - Have you considered creating a "large font size mode"? _Sometimes this can be done with creative develpment by using the mobile styles on larger viewports._
 
+### Color and Contrast
+
+* Is information conveyed by means other than color alone? \(_Underlined links, status indicators, etc.\)_
+* Does text meet the minimum contrast ratio requirements? \(3.0 for large text and informational graphics, 4.5 or higher for all other text\) [https://usecontrast.com/guide](https://usecontrast.com/guide)\`\`
+* `Developer` Have you considered creating alternate color themes or a high-contrast version? \(AAA–7.0 or higher for all text\) [https://whitehouse.gov/accessibility](https://whitehouse.gov/accessibility)
+
+
+
