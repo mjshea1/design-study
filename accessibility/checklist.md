@@ -1,6 +1,6 @@
 # Checklist
 
-This checklist is from [Shift Nudge](https://shiftnudge.com), series of online learning courses. The workshop this came from was Designing Beautiful Interfaces.
+This checklist is from [Shift Nudge](https://shiftnudge.com), series of online learning courses. The workshop this came from was Designing Beautiful Interfaces. [Original Checklist](https://www.notion.so/Acessibility-Checklist-78a85c598d5d486f9253dec8aeab938a)
 
 ## Accessibility Checklist
 
