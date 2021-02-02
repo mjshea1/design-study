@@ -28,11 +28,11 @@ _**Also Known As:**_ _Expansion Panel_
 
 #### ‣ Resources
 
-|  | Link |  | Date |
-| :--- | :--- | :--- | ---: |
-| **1** | [Tabs vs. Accordions](https://uxdesign.cc/little-things-in-ux-design-part-1-tabs-v-s-accordions-47390e4910c3) | Medium: UX Collective | 2019 |
-| **2** | [Accordions on Mobile](https://www.nngroup.com/articles/mobile-accordions/) | Nielsen Norman Group | 2015 |
-| **3** | [Accordion Menu Design Pattern](https://ui-patterns.com/patterns/AccordionMenu) | UI Patterns | - |
+|  | Link | Date |
+| :--- | :--- | ---: |
+| **1** | [Tabs vs. Accordions](https://uxdesign.cc/little-things-in-ux-design-part-1-tabs-v-s-accordions-47390e4910c3) | 2019 |
+| **2** | [Accordions on Mobile](https://www.nngroup.com/articles/mobile-accordions/) | 2015 |
+| **3** | [Accordion Menu Design Pattern](https://ui-patterns.com/patterns/AccordionMenu) | - |
 
  
 
@@ -57,6 +57,8 @@ _**Also Known As:**_  __
 |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | ---: |
 
+
+ 
 
 ### Badge
 
@@ -671,9 +673,11 @@ _**Also Known As:**_  __
 
 #### ‣ Resources
 
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
+|  | Article | Date |
+| :--- | :--- | ---: |
+| 1 | Placeholders in Form Fields are Harmful | 2014 |
 
+ 
 
 ### Toast
 
