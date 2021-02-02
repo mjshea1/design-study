@@ -33,8 +33,16 @@ This checklist is from [Shift Nudge](https://shiftnudge.com), series of online l
 ### Color and Contrast
 
 * Is information conveyed by means other than color alone? \(_Underlined links, status indicators, etc.\)_
-* Does text meet the minimum contrast ratio requirements? \(3.0 for large text and informational graphics, 4.5 or higher for all other text\) [https://usecontrast.com/guide](https://usecontrast.com/guide)\`\`
+* Does text meet the minimum contrast ratio requirements? \(3.0 for large text and informational graphics, 4.5 or higher for all other text\) [https://usecontrast.com/guide](https://usecontrast.com/guide) 
 * `Developer` Have you considered creating alternate color themes or a high-contrast version? \(AAA–7.0 or higher for all text\) [https://whitehouse.gov/accessibility](https://whitehouse.gov/accessibility)
+
+### Media
+
+* Have you avoided text inside of bitmap graphics whenever possible?
+* Have you made transcripts available for any audio files? _\(Helpful for the deaf and for people who aren't in a suitable environment to listen\)_
+* Have you provided closed-captions _\(and transcriptions\)_ for any video content? _\(_[_Rev_](https://rev.com/)_,_ [_Descript_](https://descript.com/)_, etc.\)_
+* `Developer` Have you checked your icons for a minimum AA Large \(3.0\) contrast? Have they been properly labeled via the interface design or within the code?
+*  `Developer` Does all of your image-based content have alt \(alternate text\)?  _\(Also helpful if internet connection is slow\)_
 
 
 
