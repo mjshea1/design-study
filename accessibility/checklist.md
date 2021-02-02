@@ -44,5 +44,15 @@ This checklist is from [Shift Nudge](https://shiftnudge.com), series of online l
 * `Developer` Have you checked your icons for a minimum AA Large \(3.0\) contrast? Have they been properly labeled via the interface design or within the code?
 *  `Developer` Does all of your image-based content have alt \(alternate text\)?  _\(Also helpful if internet connection is slow\)_
 
+### Functionality
+
+* Have you provided feedback for user specific user interactions? _Clearly communicate what's happened, what can be done next, etc. Validation and error messages?_
+* Have you made sure that no part of your interface flashes more than three times per second? _\(This can cause seizures\)_
+* Make sure your site or app doesn't change context or activate functionality automatically. _\(Newsletter popups anyone?\)_
+* `Developer` Have you provided identification for languages `<html lang="en">`?
+* `Developer` Don’t automatically refresh an entire app canvas unless it is really necessary for app functionality. \(_Assitive technologies generally must assume that a page refresh is a totally new structure.\)_
+*  `Developer` Have you used Accessibility tools to verify screen reading experience? \([Accessibility Insights](https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni/related), [Axe](https://www.deque.com/axe/), etc.\)
+*  `Developer` If you haven't used only native HTML, have you implemented the correct ARIA \(Accessible Rich Internet Applications\) roles to bridge the gap? \(_Note some HTML5 elements don't have accessibility support, so using both HTML5 elemtns and ARIA roles can be used to cover those gaps.\)_
+
 
 
