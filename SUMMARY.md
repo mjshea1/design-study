@@ -18,6 +18,7 @@
   * [Typography](practice/typography/README.md)
     * [Links and Resources](practice/typography/links-resources.md)
   * [Design Reviews](practice/design-reviews.md)
+  * [UI Checklist](practice/ui-checklist.md)
 * [Accessibility](accessibility/README.md)
   * [Checklist](accessibility/checklist.md)
 * [Career](career/README.md)
