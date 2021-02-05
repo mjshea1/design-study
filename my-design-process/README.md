@@ -15,7 +15,8 @@ At the beginning of a new project, it is important to establish key details, oft
 
 A project plan, also known as a project management plan, is a document that contains a project scope and objective. It is most commonly represented in the form of a Gantt chart to make it easy to communicate with stakeholders. Project planning is one of the main responsibilities of the project manager for a given project.
 
-**Questions:** 
+**Questions:**
+
 * What are the major deliverables?
 * How will we get to those deliverables and the deadline?
 * Who is on the project team, and what role will they play in those deliverables?
@@ -27,7 +28,8 @@ A project plan, also known as a project management plan, is a document that cont
 
 The purpose of a design brief is to capture the key details of a project and ensure that the client and designer are aligned. A brief is usually written by the designer in order to ensure they have all the information. It should capture the needs to accomplish a project and ensure that there is full agreement on issues including, project deliverables, budget, and schedule.
 
-**Questions:** 
+**Questions:**
+
 * Who is the client and what do they do? 
 * What is the scope of the project? 
 * Who’s the audience or target market? 
@@ -52,6 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 User research is the lifeblood of a project. The things that are discovered and unearthed during this stage lays the foundation for how the entire project will turn out. The most dangerous thing I can do as a designer is not to challenge my assumptions. Great user research challenges all my assumptions and requires deep design exploration.
 
 **Methods:**
+
 * **1:1 Interviews:** an in-depth method of gathering qualitative and quantitative insights through one-on-one
 * **User/Focus Groups** when you have a focus group of 3 - 5 target users
 * **Contextual Inquiry:** a semi-structured interview to obtain context of use. Users are observed while working in their natural environment
@@ -64,6 +67,8 @@ User research is the lifeblood of a project. The things that are discovered and 
 * **Competitor Analysis:** a process that compares how others are currently trying to solve a similar problem
 
 `References:` [UX Design Processes](https://www.uxbeginner.com/ux-design-processes/), [The UX design process in 6 stages](https://www.invisionapp.com/inside-design/6-stages-ux-process/)
+
+ 
 
 ### Understand Users
 
