@@ -5,9 +5,9 @@
 * Project Plan \(thing\)
 * Project Brief \(thing\)
 
-_——————————————————————————— Project Objectives_
+_-- -- -- -- Portfolio Parallel_ → _Project Objectives_
 
-#### 1 - Empathize \(Understanding the design or project problem\)
+### 1 - Empathize \(Understanding the design or project problem\)
 
 * Conduct Research \(task\)
   * User Research \(thing\)
@@ -16,7 +16,7 @@ _——————————————————————————�
   * User Stories \(thing\)
   * User Persona’s \(thing\)
 
-2 Define \(Defining the design or project problem\)
+### 2 - Define \(Defining the design or project problem\)
 
 * Establish User’s Needs \(task\)
   * Reports \(thing\)
@@ -25,9 +25,9 @@ _——————————————————————————�
   * Wireframes \(thing\)
     * Wireframes focus on \(techniques\)
 
-_——————————————————————————— Designing the Project_
+_-- -- -- -- Portfolio Parallel_ → _Designing the Project_
 
-#### 3 - Ideate \(Exploring and freedom\)
+### 3 - Ideate \(Exploring and freedom\)
 
 * Gather Inspiration \(task\)
   * Moodboard \(thing\)
@@ -36,7 +36,7 @@ _——————————————————————————�
   * Exploration \(thing\)
     * Ideate Technigues \(techniques\)
 
-#### 4 - Refine \(Creating the deliverables\)
+### 4 - Refine \(Creating the deliverables\)
 
 * Finalize Solutions \(task\)
   * Design \(thing\) \(Mockups, Pixel Perfect Design\)
@@ -45,9 +45,9 @@ _——————————————————————————�
   * Heuristic Evaluation \(thing\)
   * User Research \(thing\)
 
-_——————————————————————————— Implementing the Project_
+_-- -- -- -- Portfolio Parallel_ → _Implementing the Project_
 
-#### 5 - Deliver \(putting them to use\)
+### 5 - Deliver \(putting them to use\)
 
 * Package and handoff \(task\)
   * Style Guide / Pattern Library \(thing\)
@@ -55,9 +55,9 @@ _——————————————————————————�
   * Documentation \(thing\)
 * Scrubbing Design - Another name? \(task\)
 
-_——————————————————————————— Outcomes and Results_
+_-- -- -- -- Portfolio Parallel_ → _Outcomes and Results_
 
-#### 6 - Evolve \(Evaluating and improving\)
+### 6 - Evolve \(Evaluating and improving\)
 
 * Analyze and Test Solutions \(task\)
 * Incorporate Feedback \(task\)
