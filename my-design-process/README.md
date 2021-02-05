@@ -15,7 +15,12 @@ At the beginning of a new project, it is important to establish key details, oft
 
 A project plan, also known as a project management plan, is a document that contains a project scope and objective. It is most commonly represented in the form of a Gantt chart to make it easy to communicate with stakeholders. Project planning is one of the main responsibilities of the project manager for a given project.
 
-**Questions:** 1. What are the major deliverables? 2. How will we get to those deliverables and the deadline? 3. Who is on the project team, and what role will they play in those deliverables? 4. When will the team meet milestones, and when will other members of the team play a role in contributing to or providing feedback on those deliverables?
+**Questions:** 
+
+1. What are the major deliverables?
+2. How will we get to those deliverables and the deadline?
+3. Who is on the project team, and what role will they play in those deliverables?
+4. When will the team meet milestones, and when will other members of the team play a role in contributing to or providing feedback on those deliverables?
 
 `References:` [Your guide to writing design briefs](https://www.invisionapp.com/inside-design/writing-design-briefs/), [How to write a design brief that gets you results](https://www.canva.com/learn/effective-design-brief/)
 
