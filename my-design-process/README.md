@@ -52,7 +52,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 User research is the lifeblood of a project. The things that are discovered and unearthed during this stage lays the foundation for how the entire project will turn out. The most dangerous thing I can do as a designer is not to challenge my assumptions. Great user research challenges all my assumptions and requires deep design exploration.
 
 **Methods:**
-
 * **1:1 Interviews:** an in-depth method of gathering qualitative and quantitative insights through one-on-one
 * **User/Focus Groups** when you have a focus group of 3 - 5 target users
 * **Contextual Inquiry:** a semi-structured interview to obtain context of use. Users are observed while working in their natural environment
