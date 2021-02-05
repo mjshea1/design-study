@@ -82,7 +82,7 @@ User research is the lifeblood of a project. The things that are discovered and 
 
 The first phase of my Design Process is intended to gain an empathetic understanding of the problem that need solutions, typically through user research. Empathy is crucial to a **human-centered design** process because it allows me to set aside my assumptions about the world and begin to gain a real insight into the users and their needs. Depending on time constraints, a substantial amount of information is gathered at this phase to use during the next to develop the best possible understanding of users, their needs, and the problems that underlie development. When working within a team it is sometimes the role of a UX Designer or UX Architect to manage and organize the research. It is important to conduct interview's, create **User Stories** and **build Persona's** to study and interpret the users. This is the most critical phase of the process, without the ability to empathize and understand a design fails to be human-centered.
 
-`References`
+`📑 References`
 
  
 
@@ -90,7 +90,7 @@ The first phase of my Design Process is intended to gain an empathetic understan
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -98,7 +98,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -108,7 +108,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 During the Define phase, I organize all of the information gathered and collected from the previous phase. I analyze observations and synthesize definitions that have been identified as the core needs and goals of the user. I then create problem statements and user stories in a human-centered manner for reference and guidance. These statements are continuously referenced as I explore solutions and establish features, functions, and design components. **It is important to not define the problems or needs of the owner, but rather the user.**
 
-`References`
+`📑 References`
 
  
 
@@ -116,7 +116,7 @@ During the Define phase, I organize all of the information gathered and collecte
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -124,7 +124,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -132,7 +132,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -147,7 +147,7 @@ Wireframing is an important part of the design process and is often done during 
 * The rules for displaying certain kinds of information and when
 * The effect of different scenarios on the display
 
-`References` [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html), [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
+`📑 References` [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html), [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
 
 ## Ideate
 
@@ -155,7 +155,7 @@ Wireframing is an important part of the design process and is often done during 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -163,7 +163,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -171,9 +171,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+`📑 References`
+
+ 
+
 ### Explore Solutions
 
 The third phase of my Design Process is the most fun, it is where I start to explore and invent creative solutions that have been swirling around in my head during from the start of the project. By this point I have grown to understand the users and their needs, and now need to interpret that into **visual representations**. I constantly challenge myself to think outside the box and identify new solutions to the problem statements. I focus on alternative ways of viewing the users needs as I start to explore creative solutions. I question, question and then question more. There are hundreds of ideation techniques I use during this process such as brainstorming, storyboarding, mindmapping, and sketching. It is important to explore ideas and **not be constrained** \(other than by previously defined user stories\). The objective of this phase is to find the best solution that fits the needs and goals of the users within the time and budget.
+
+`📑 References`
+
+ 
 
 #### ‣ Exploration
 
@@ -195,33 +203,59 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 * **Crowdstorming:** target audiences generate and validate ideas through feedback \(e.g., social media\) to provide valuable solution insights
 * **Creative Pause:** taking time to pull back from obstacles
 
+`📑 References`
+
+ 
+
 ## Refine
 
 ### Finalize Solutions
 
 This is the decision and refinement phase of the Design Process. One of the goals is to identify the best possible solutions for the problems identified during the previous phases. I will often produce a number of **high fidelity, interactive prototypes** \(or specific features\) to investigate and strengthen the design direction. The solutions are then one by one, investigated and either accepted, improved and re-examined, or rejected on the basis of the users’ experiences.
 
+`📑 References`
+
+ 
+
 #### ‣ Design
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+`📑 References`
+
+ 
 
 #### ‣ Prototype
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+`📑 References`
+
+ 
+
 ### Test Solutions
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+`📑 References`
+
+ 
 
 #### ‣ Heuristic Evaluation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+`📑 References`
+
+ 
+
 #### ‣ User Research
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-Refernces
+`📑 References`
+
+ 
 
 ## Deliver
 
@@ -229,7 +263,7 @@ Refernces
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
 
 
@@ -237,7 +271,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -245,7 +279,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -253,7 +287,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -261,7 +295,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
@@ -273,7 +307,7 @@ Designers and evaluators rigorously test the design in a variety of ways. Protot
 
 By the end of this phase, I have a better understanding of the constraints inherent to the project and the problems that are present, and have a clearer view of how real users would behave, think, and feel when interacting to the design.
 
-`References`
+`📑 References`
 
  
 
@@ -281,7 +315,7 @@ By the end of this phase, I have a better understanding of the constraints inher
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-`References`
+`📑 References`
 
  
 
