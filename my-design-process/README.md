@@ -221,27 +221,49 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+Refernces
+
 ## Deliver
 
 ### Package and Handoff
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+`References`
+
+
+
 #### ‣ Style Guide / Pattern Library
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+`References`
+
+ 
 
 #### ‣ Design System
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+`References`
+
+ 
+
 #### ‣ Documentation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+`References`
+
+ 
+
 ### Scrubbing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+`References`
+
+ 
 
 ## Evolve
 
@@ -251,11 +273,19 @@ Designers and evaluators rigorously test the design in a variety of ways. Protot
 
 By the end of this phase, I have a better understanding of the constraints inherent to the project and the problems that are present, and have a clearer view of how real users would behave, think, and feel when interacting to the design.
 
+`References`
+
+ 
+
 ### Incorporate Feedback
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
-#### References
+`References`
+
+ 
+
+## Design Process Links
 
 |  | Source | Description / Author |
 | :--- | :--- | :--- |
