@@ -117,9 +117,7 @@ Wireframing is an important part of the design process and is often done during 
 * The rules for displaying certain kinds of information and when
 * The effect of different scenarios on the display
 
-`References:` 
-
-* [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html), [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
+`References:` [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html), [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
 
 ## Ideate
 
