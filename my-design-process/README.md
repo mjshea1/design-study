@@ -11,12 +11,10 @@ Through research and experience, I have found several variations in methodologie
 
 At the beginning of a new project, it is important to establish key details, often outlined in a project plan, and/or a project brief. While a project plan outlines how a project will get done, a project brief defines the who, what, when, where, and why, setting clear expectations for stakeholders on the front end. Once work begins, you can use the project brief to help prevent scope creep and guide decisions all the way to completion.
 
-&nbsp;&nbsp;
 #### ‣ Project Plan
 
 A project plan, also known as a project management plan, is a document that contains a project scope and objective. It is most commonly represented in the form of a Gantt chart to make it easy to communicate with stakeholders. Project planning is one of the main responsibilities of the project manager for a given project.
 
-&nbsp;&nbsp;
 **Questions:** 
 * What are the major deliverables?
 * How will we get to those deliverables and the deadline?
@@ -25,7 +23,6 @@ A project plan, also known as a project management plan, is a document that cont
 
 `References:` [Your guide to writing design briefs](https://www.invisionapp.com/inside-design/writing-design-briefs/), [How to write a design brief that gets you results](https://www.canva.com/learn/effective-design-brief/)
 
-&nbsp;&nbsp;
 #### ‣ Project Brief
 
 The purpose of a design brief is to capture the key details of a project and ensure that the client and designer are aligned. A brief is usually written by the designer in order to ensure they have all the information. It should capture the needs to accomplish a project and ensure that there is full agreement on issues including, project deliverables, budget, and schedule.
@@ -44,7 +41,6 @@ The purpose of a design brief is to capture the key details of a project and ens
 
 `References:` [Your guide to writing design briefs](https://www.invisionapp.com/inside-design/writing-design-briefs/), [How to write a design brief that gets you results](https://www.canva.com/learn/effective-design-brief/)
 
-&nbsp;&nbsp;
 ## Empathize
 
 ### Conduct Research
