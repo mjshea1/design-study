@@ -117,9 +117,9 @@ Wireframing is an important part of the design process and is often done during 
 * The rules for displaying certain kinds of information and when
 * The effect of different scenarios on the display
 
-* References: [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html), [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
+`References:` 
 
- 
+* [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html), [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
 
 ## Ideate
 
@@ -127,9 +127,13 @@ Wireframing is an important part of the design process and is often done during 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+
+
 #### ‣ Moodboard
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+
 
 #### ‣ Collections
 
@@ -140,6 +144,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 ### Explore Solutions
 
 The third phase of my Design Process is the most fun, it is where I start to explore and invent creative solutions that have been swirling around in my head during from the start of the project. By this point I have grown to understand the users and their needs, and now need to interpret that into **visual representations**. I constantly challenge myself to think outside the box and identify new solutions to the problem statements. I focus on alternative ways of viewing the users needs as I start to explore creative solutions. I question, question and then question more. There are hundreds of ideation techniques I use during this process such as brainstorming, storyboarding, mindmapping, and sketching. It is important to explore ideas and **not be constrained** \(other than by previously defined user stories\). The objective of this phase is to find the best solution that fits the needs and goals of the users within the time and budget.
+
+
 
 #### ‣ Exploration
 
@@ -169,9 +175,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 This is the decision and refinement phase of the Design Process. One of the goals is to identify the best possible solutions for the problems identified during the previous phases. I will often produce a number of **high fidelity, interactive prototypes** \(or specific features\) to investigate and strengthen the design direction. The solutions are then one by one, investigated and either accepted, improved and re-examined, or rejected on the basis of the users’ experiences.
 
+
+
 #### ‣ Design
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+
 
 #### ‣ Prototype
 
@@ -183,9 +193,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+
+
 #### ‣ Heuristic Evaluation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+
 
 #### ‣ User Research
 
@@ -199,13 +213,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+
+
 #### ‣ Style Guide / Pattern Library
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+
+
 #### ‣ Design System
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+
 
 #### ‣ Documentation
 
@@ -243,7 +263,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 | **2** | [What is Design Thinking?](https://designthinkingforeducators.com/design-thinking/) | Design Thinking Process for Educators |
 | **3** | [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking) | Interactive Design Foundation Design Thinking |
 | **4** | [Discover Design](https://discoverdesign.org/handbook) | Design definition from Chicago Architecture Center |
-| **5** | [Process Design & Execution](https://www.next4biz.com/process-design-execution/) | Designing by Yourself - next4biz[z](career/search) |
+| **5** | [Process Design & Execution](https://www.next4biz.com/process-design-execution/) | Designing by Yourself - next4bizz |
 | **6** | [Design Process: 3 Most Popular Processes](https://medium.com/pminsider/3-product-design-processes-and-when-to-use-them-2c6552522637) | & When To Use Them |
 | **7** | [What Exactly Is a “Deliverable”?](https://webdesign.tutsplus.com/articles/what-exactly-is-a-deliverable--cms-28819) | Design Process deliverables |
 | **8** | [The 13 Step Graphic Design Process](https://www.shillingtoneducation.com/blog/graphic-design-process/) | The Graphic Design Process |
