@@ -11,6 +11,8 @@ Through research and experience, I have found several variations in methodologie
 
 At the beginning of a new project, it is important to establish key details, often outlined in a project plan, and/or a project brief. While a project plan outlines how a project will get done, a project brief defines the who, what, when, where, and why, setting clear expectations for stakeholders on the front end. Once work begins, you can use the project brief to help prevent scope creep and guide decisions all the way to completion.
 
+ 
+
 #### ‣ Project Plan
 
 A project plan, also known as a project management plan, is a document that contains a project scope and objective. It is most commonly represented in the form of a Gantt chart to make it easy to communicate with stakeholders. Project planning is one of the main responsibilities of the project manager for a given project.
@@ -22,7 +24,9 @@ A project plan, also known as a project management plan, is a document that cont
 * Who is on the project team, and what role will they play in those deliverables?
 * When will the team meet milestones, and when will other members of the team play a role in contributing to or providing feedback on those deliverables?
 
-`References:` [Your guide to writing design briefs](https://www.invisionapp.com/inside-design/writing-design-briefs/), [How to write a design brief that gets you results](https://www.canva.com/learn/effective-design-brief/)
+`References` [Your guide to writing design briefs](https://www.invisionapp.com/inside-design/writing-design-briefs/), [How to write a design brief that gets you results](https://www.canva.com/learn/effective-design-brief/)
+
+ 
 
 #### ‣ Project Brief
 
@@ -41,13 +45,17 @@ The purpose of a design brief is to capture the key details of a project and ens
 * What previous design and marketing materials have they used? 
 * Are there other people responsible for other pieces of this project?
 
-`References:` [Your guide to writing design briefs](https://www.invisionapp.com/inside-design/writing-design-briefs/), [How to write a design brief that gets you results](https://www.canva.com/learn/effective-design-brief/)
+`References` [Your guide to writing design briefs](https://www.invisionapp.com/inside-design/writing-design-briefs/), [How to write a design brief that gets you results](https://www.canva.com/learn/effective-design-brief/)
 
 ## Empathize
 
 ### Conduct Research
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+`References`
+
+ 
 
 #### ‣ User Research
 
@@ -66,7 +74,7 @@ User research is the lifeblood of a project. The things that are discovered and 
 * **Feature Matrix:** a tool to compare the value and cost of features in products to determine the minimum viable product with a feature
 * **Competitor Analysis:** a process that compares how others are currently trying to solve a similar problem
 
-`References:` [UX Design Processes](https://www.uxbeginner.com/ux-design-processes/), [The UX design process in 6 stages](https://www.invisionapp.com/inside-design/6-stages-ux-process/)
+`References` [UX Design Processes](https://www.uxbeginner.com/ux-design-processes/), [The UX design process in 6 stages](https://www.invisionapp.com/inside-design/6-stages-ux-process/)
 
  
 
@@ -74,13 +82,25 @@ User research is the lifeblood of a project. The things that are discovered and 
 
 The first phase of my Design Process is intended to gain an empathetic understanding of the problem that need solutions, typically through user research. Empathy is crucial to a **human-centered design** process because it allows me to set aside my assumptions about the world and begin to gain a real insight into the users and their needs. Depending on time constraints, a substantial amount of information is gathered at this phase to use during the next to develop the best possible understanding of users, their needs, and the problems that underlie development. When working within a team it is sometimes the role of a UX Designer or UX Architect to manage and organize the research. It is important to conduct interview's, create **User Stories** and **build Persona's** to study and interpret the users. This is the most critical phase of the process, without the ability to empathize and understand a design fails to be human-centered.
 
+`References`
+
+ 
+
 #### ‣ User Stories
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+`References`
+
+ 
+
 #### ‣ User Persona’s
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+`References`
+
+ 
 
 ## Define
 
@@ -88,17 +108,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 During the Define phase, I organize all of the information gathered and collected from the previous phase. I analyze observations and synthesize definitions that have been identified as the core needs and goals of the user. I then create problem statements and user stories in a human-centered manner for reference and guidance. These statements are continuously referenced as I explore solutions and establish features, functions, and design components. **It is important to not define the problems or needs of the owner, but rather the user.**
 
+`References`
+
+ 
+
 #### ‣ Reports
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+`References`
+
+ 
 
 #### ‣ User Journey Maps
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+`References`
+
+ 
+
 #### ‣ Site Maps
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+`References`
+
+ 
 
 #### ‣ Wireframes
 
@@ -111,7 +147,7 @@ Wireframing is an important part of the design process and is often done during 
 * The rules for displaying certain kinds of information and when
 * The effect of different scenarios on the display
 
-`References:` [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html), [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
+`References` [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html), [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
 
 ## Ideate
 
@@ -119,9 +155,17 @@ Wireframing is an important part of the design process and is often done during 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
 
+`References`
+
+ 
+
 #### ‣ Moodboard
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet tincidunt efficitur. In accumsan magna vitae dui ornare efficitur. Ut ut diam blandit, pulvinar mauris nec, posuere ipsum.
+
+`References`
+
+ 
 
 #### ‣ Collections
 
