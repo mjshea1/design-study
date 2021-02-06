@@ -16,12 +16,12 @@ description: Setup and notes for my study site.
 
 * _Used for a direct quote or copy_
 
-📑 **References -** the use of a source of information in order to ascertain something. **Code Snip**
+📑 **Reference Links -** the use of a source of information in order to ascertain something. **Code Snip**
 
 * _Used for where it was directly taken form_
 * Not to be a quote or copy
 
-📋 **Sources -** a book or document used to provide evidence in research. - **List**
+📋 **Source Links -** a book or document used to provide evidence in research. - **List / Table**
 
 * _Used for references of where the information was taken_
 
@@ -31,9 +31,11 @@ description: Setup and notes for my study site.
 * Or for additional reading related to the topic I don't want to loose.
 * Links can be used as enough information, or what I don't need/want to retype out. 
 
-Tables are used for reading/ high value links. \(more important\)
 
-Lists are used for quick reference. \(lesser imporant\)
+
+**Tables** are used for reading/ high value links. \(more important\)
+
+**Lists** are used for quick reference. \(lesser imporant\)
 
 
 
