@@ -321,7 +321,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 ## Reference Links
 
-|  | Source | Description / Author |
+|  | Link | Description / Author |
 | :--- | :--- | :--- |
 | **1** | [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/) | Nielsen Norman Group Design Thinking Summary |
 | **2** | [What is Design Thinking?](https://designthinkingforeducators.com/design-thinking/) | Design Thinking Process for Educators |
