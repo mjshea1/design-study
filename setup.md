@@ -12,33 +12,26 @@ description: Setup and notes for my study site.
 
 ## Terms
 
-**Citation -** a quotation from or reference to a book, paper, or author, especially in a scholarly work. 
+💬 **Citation -** a quotation from or reference to a book, paper, or author, especially in a scholarly work. 
 
-* _Used for a direct quote_
+* _Used for a direct quote or copy_
 
-**Sources -** a book or document used to provide evidence in research.
+📑 **References -** the use of a source of information in order to ascertain something. 
 
-* _Used for references of where the information came from_
+* _Used for where it was directly taken form_
+* Not to be a quote or copy
 
-**References -** the use of a source of information in order to ascertain something. Used for 
+📋 **Sources -** a book or document used to provide evidence in research.
 
-* Use
+* _Used for references of where the information was taken_
 
-**Links** - a link from a hypertext file or document to another location or file. 
+💻 **Links** - a link from a hypertext file or document to another location or file. 
 
-* _Used for additional information, reading or reference._
+* _Used for additional information, reading or reference._ 
+* Or for additional reading related to the topic I don't want to loose.
+* Links can be used as enough information, or what I don't need/want to retype out. 
 
 Other terms not used - Footnote, Note, Credit
-
-
-
-A direct quote
-
-Reference something within what is written
-
-Link to more information
-
-Source of the information
 
 \*\*\*\*
 
