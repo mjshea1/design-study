@@ -20,7 +20,7 @@ To retain knowlege I have set up some self assessment questions.
 
 📝 **Universal Principles of Design** → Answer List
 
-## Links
+## Source Links
 
 |  | Link | ✓ |
 | :--- | :--- | ---: |

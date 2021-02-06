@@ -18,11 +18,11 @@ To retain knowlege I have set up some self assessment questions.
 
 📝 **Design Systems - General** → Answer List
 
-## Links
+## Source Links
 
-|  | Link | ✓ |
+|  | Link |  |
 | :--- | :--- | ---: |
-| **1** | [Atomic Design - Brad Frost](https://atomicdesign.bradfrost.com/table-of-contents/) |  |
+| **1** | [Atomic Design - Brad Frost](https://atomicdesign.bradfrost.com/table-of-contents/) | 2016 |
 | **2** | [Wireframing tools & atomic design: UX from the bottom up](https://www.justinmind.com/blog/wireframing-tool-and-atomic-design-user-experience-from-the-bottom-up/) |  |
 | **3** | [Fast track to learning Design Thinking, Lean Startup, Agile, Pretotyping, and Design Sprint](https://uxplanet.org/fast-track-%EF%B8%8F-to-learning-design-thinking-lean-startup-agile-pretotyping-and-design-sprint-f4badcd915fb) |  |
 | **4** | [SAFe - Communities of Practice](https://www.scaledagileframework.com/communities-of-practice/) |  |

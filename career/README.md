@@ -50,7 +50,7 @@ In a nutshell, VX is like UX, but with motion. VX is a holistic approach, always
 
 * [A guide to design roles in the tech](https://medium.com/getting-started-as-a-designer/a-guide-to-design-roles-in-the-tech-ecosystem-2019-f2df1ff1c64e)
 
-## Links
+## Source Links
 
 |  | Link | ✓ |
 | :--- | :--- | ---: |
