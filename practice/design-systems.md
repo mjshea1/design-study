@@ -3,7 +3,7 @@ title: Practice
 sidebarDepth: 2
 ---
 
-# Design System Components
+# Design System Components 1
 
 Components are portions of reusable code within the system that serve as the building blocks of the application’s interface. Components range in complexity. Reducing components to a single function, like a button or a drop down increases flexibility, making them more reusable. More complex components, like tables for specific types of data, can serve their use cases well, but this complexity limits the number of applicable scenarios. The more reusable components are, the less need to maintain, and the easier scale becomes.
 
