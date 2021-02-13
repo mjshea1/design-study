@@ -163,19 +163,22 @@ These are the major design systems setting industry standard:
 | **9** | [Polaris](https://polaris.shopify.com/) | Shopify |
 | **10** | [A-Frame](https://aframe.io/) | 3D  |
 
-Repository of design systems and pattern libraries: [Adele](http://adele.uxpin.com/)
-
 {% page-ref page="../practice/design-system-chart.md" %}
 
-## Links
+### **Design System Collections**
 
-* [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook) - Free online book from InVision
-* [Design Systems](https://www.smashingmagazine.com/design-systems-book/) - A Smashing Magazine book by Alla Kholmatova
-
-**Design System Collections**
-
+* [Adele](http://adele.uxpin.com/) **-** The repository of publicly available design systems and pattern libraries
 * [Design Sysem Repo](https://designsystemsrepo.com/design-systems/) - A comprehensive and curated list of design systems
 * [Website Style Guide Resources](http://styleguides.io) - Pattern libraries, code standards docs and style guides
 
+## Links
+
+* [Getting Started with Design Systems — Part 1](https://medium.com/thinking-design/design-systems-101-what-why-how-e58ee0e7a48)
+
+### Books
+
+* [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook) - Free online book from InVision
+* [Design Systems](https://www.smashingmagazine.com/design-systems-book/) - A Smashing Magazine book by Alla Kholmatova
+* 
 
 
