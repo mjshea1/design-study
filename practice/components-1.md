@@ -14,11 +14,11 @@ An accordion is a vertically stacked list of headers that reveal or hide associa
 **Design Systems:** [Angular Material](https://material.angular.io/components/expansion/examples), [Carbon](https://www.carbondesignsystem.com/components/accordion/usage), [Edison](https://edisondesignsystem.com/accordion), [Fractal](https://fractal.hilton.com/ui-ux-guidelines/content/accordions/), [Pajamas](https://design.gitlab.com/components/accordion)   
 **Similar:** [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/views/tables/)
 
-### Notes
+#### ➥ Notes
 
 Types, States, Design, Guides
 
-### Links
+#### Links
 
 * [Tabs vs. Accordions](https://uxdesign.cc/little-things-in-ux-design-part-1-tabs-v-s-accordions-47390e4910c3) \(2019\)
 * [Accordions on Mobile](https://www.nngroup.com/articles/mobile-accordions/) \(2015\)
@@ -32,11 +32,11 @@ _**Also Known As:**_  __
  **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link)   
  **Similar:**
 
-### Notes
+#### ➥ Notes
 
 Types, States, Design, Guides
 
-### Links
+#### Links
 
 * Link 
 
@@ -47,13 +47,13 @@ Types, States, Design, Guides
  **Examples:** [Angular Material](https://material.angular.io/components/badge/overview), [Atlassian](https://atlassian.design/components/badge/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/)  
  **Similar:**
 
-### Notes
+#### ➥ Notes
 
 Types, States, Design, Guides
 
-### Links
+#### Links
 
-* Link
+* Link 
 
 ## Banner
 
@@ -62,13 +62,13 @@ Types, States, Design, Guides
  **Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/system-capabilities/notifications/), [Material Design](https://material.io/components/banners)   
  **Similar:**
 
-### Notes
+#### ➥ Notes
 
 Types, States, Design, Guides
 
-### Links
+#### Links
 
-* Link
+* Link 
 
 ## Breadcrumb
 
@@ -77,13 +77,13 @@ Types, States, Design, Guides
  **Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Carbon](https://www.carbondesignsystem.com/components/breadcrumb/usage/)   
  **Similar:**
 
-### Notes
+#### ➥ Notes
 
 Types, States, Design, Guides
 
-### Links
+#### Links
 
-* Link
+* Link 
 
 ## Button
 
@@ -92,7 +92,7 @@ _**Also Known As:**_ _Push Button_
  **Atomic Category:** Atom   
  **Examples:** [Angular Material](https://material.angular.io/components/button/overview), [Atlassian](https://atlassian.design/components/button/examples), [Carbon](https://www.carbondesignsystem.com/components/button/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/push-buttons/) [Material Design](https://material.io/components/buttons), [Spectrum](https://spectrum.adobe.com/page/button/) 
 
-### **Notes**
+#### ➥ Notes
 
 1. Make buttons look like buttons
 2. Put buttons where users expect to find them
@@ -102,10 +102,10 @@ _**Also Known As:**_ _Push Button_
 5. Avoid using too many buttons
 6. Provide visual or audio feedback on interaction
 
-### Links
+#### Links
 
 * [UI cheat sheets: buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112) - Actions, Styling, Colors, States, Labeling, Targerts, Positions \(2019\)
-* 
+
 ## Button Toggle
 
 _**Also Known As:**_  __   
@@ -114,19 +114,13 @@ _**Also Known As:**_  __
  **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## Card
 
@@ -136,21 +130,13 @@ _**Also Known As:**_ _Tile_
  **Examples:** [Angular Material](https://material.angular.io/components/card/overview), [Carbon](https://www.carbondesignsystem.com/components/tile/usage/), [Spectrum](https://spectrum.adobe.com/page/cards/)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-## Links
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## Checkbox
 
@@ -159,19 +145,13 @@ _**Also Known As:**_ _Tile_
  **Examples:** [Angular Material](https://material.angular.io/components/checkbox/overview), [Atlassian](https://atlassian.design/components/checkbox/examples), [Carbon](https://www.carbondesignsystem.com/components/checkbox/usage), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/checkboxes/), [Material Design](https://material.io/components/selection-controls#checkboxes), [Spectrum](https://spectrum.adobe.com/page/checkbox/)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## Chip
 
@@ -181,19 +161,13 @@ _**Also Known As:**_ _Tag_
  **Examples:** [Angular Material](https://material.angular.io/components/chips/overview), [Atlassian](https://atlassian.design/components/lozenge/examples), [Carbon](https://www.carbondesignsystem.com/components/tag/usage/), [Material Design](https://material.io/components/selection-controls#checkboxes), [Spectrum](https://spectrum.adobe.com/page/tag/)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## Dialog / Modal
 
@@ -202,19 +176,13 @@ _**Also Known As:**_ _Tag_
  **Examples:** [Angular Material](https://material.angular.io/components/dialog/overview), [Atlassian](https://atlassian.design/components/modal-dialog/examples), [Carbon](https://www.carbondesignsystem.com/components/modal/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/modality/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/app-architecture/modality/), [Material Design](https://material.io/components/dialogs), [Spectrum](https://spectrum.adobe.com/page/dialog/)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## Divider
 
@@ -223,19 +191,13 @@ _**Also Known As:**_ _Tag_
  **Examples:** [Angular Material](https://material.angular.io/components/divider/overview), [Material Design](https://material.io/components/dividers), [Spectrum](https://spectrum.adobe.com/page/divider/)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## Drawer
 
@@ -245,19 +207,13 @@ _**Also Known As:**_ _Navigation drawer_
  **Examples:** [Angular Material](https://material.angular.io/components/divider/overview), [Material Design](https://material.io/components/navigation-drawer), [Spectrum](https://spectrum.adobe.com/page/divider/)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## Dropdown
 
@@ -267,19 +223,13 @@ _**Also Known As:**_ _Select_
  **Examples:** [Angular Material](https://material.angular.io/components/dialog/overview), [Atlassian](https://atlassian.design/components/select/examples), [Carbon](https://www.carbondesignsystem.com/components/select/usage/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/pull-down-buttons/), [Material Design](https://material.io/components/menus#dropdown-menu), [Spectrum](https://spectrum.adobe.com/page/picker/)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## Link
 
@@ -289,19 +239,13 @@ _**Also Known As:**_  __
  **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## List
 
@@ -311,19 +255,13 @@ _**Also Known As:**_  __
  **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 
 ## Menu
 
@@ -333,19 +271,11 @@ _**Also Known As:**_  __
  **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
  **Similar:**
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
-
-
+* Link 
 
