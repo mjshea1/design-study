@@ -18,9 +18,9 @@ To retain knowlege I have set up some self assessment questions.
 
 📝 **Accessibility** → Answer List
 
-## Sources
+## Source Links
 
-|  | Link | Year |
+|  | Link | ✓ |
 | :--- | :--- | ---: |
 | **1** | [Inclusive Design from Microsoft](https://www.microsoft.com/design/inclusive/) |  |
 | **2** | [40 Tips For Inclusive And Accessible User Interface Design](https://trydesignlab.com/blog/40-tips-inclusion-accessibility-user-interface-design/) |  |

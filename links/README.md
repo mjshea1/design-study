@@ -45,16 +45,6 @@ This is my collection of links and resources I've collected over the past few ye
 
  
 
-## Talks, Conferences & Learnings
-
-|  | Link | Time | Topics |
-| :--- | :--- | :--- | :--- |
-| **1** | [InVision Talks](https://www.invisionapp.com/talks) | Ongoing | Various Topics |
-| **2** | [M-Enabling Summit](https://m-enabling.com/) | Yearly | Web Accessability |
-| **3** | [Learn Design System](https://www.learndesignsystem.com/resources) | Ongoing | Various Topics |
-
- 
-
 ## Resources
 
 |  | Link | Description |
