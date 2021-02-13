@@ -1,7 +1,7 @@
 ---
 title: Methods
 sidebarDepth: 1
-description: 'Design methods are procedures, techniques, aids, or tools for designing.'
+description: 'Design methods are procedures, techniques, aids, or tools for designing'
 ---
 
 # Method
@@ -18,9 +18,9 @@ To retain knowlege I have set up some self assessment questions.
 
 📝 **Design Systems - General** → Answer List
 
-## Sources
+## Source Links
 
-|  | Link | Year |
+|  | Link |  |
 | :--- | :--- | ---: |
 | **1** | [Atomic Design - Brad Frost](https://atomicdesign.bradfrost.com/table-of-contents/) | 2016 |
 | **2** | [Wireframing tools & atomic design: UX from the bottom up](https://www.justinmind.com/blog/wireframing-tool-and-atomic-design-user-experience-from-the-bottom-up/) |  |
@@ -32,8 +32,8 @@ To retain knowlege I have set up some self assessment questions.
 | **7** | [Design systems — in the wild](https://uxdesign.cc/design-systems-in-the-wild-cbc863f41c2) |  |
 | **8** | [Design Systems Gallery](https://designsystemsrepo.com/design-systems) |  |
 | **9** | [Uber Design Platform](https://medium.com/uber-design/uber-design-platform-1ebff86c89e7) |  |
-| **10** | [Google I/O ’18 — Material Theming in a Nutshell](https://blog.prototypr.io/google-i-o-18-material-theming-180032431b9e) |  |
-| **11** | [The complete guide to Angular Material Themes](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1) |  |
+| **10** | [Google I/O ’18 — Material Theming in a Nutshell](https://blog.prototypr.io/google-i-o-18-material-theming-180032431b9e) | ✓ |
+| **11** | [The complete guide to Angular Material Themes](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1) | ✓ |
 | **12** | [Design System UI is More Expensive Than a Product Team’s UI](https://medium.com/eightshapes-llc/design-system-ui-is-more-expensive-than-a-product-teams-ui-f3c3e48c555) |  |
 | **13** | [Rhythm your Design System with golden ratio](https://uxdesign.cc/design-system-based-on-the-golden-ratio-ui-%C9%B8-e45eb98655cb) |  |
 | **14** | [What is a Design System?](https://rangle.io/blog/what-is-a-design-system/) |  |
