@@ -146,12 +146,6 @@ A design system unites product teams around a common visual language. It reduces
     * Building writing guidelines
       * Start with an audit, Define the findings, Get buy-in, find a home, develop
 
- 
-
-#### Comparison of popular design systems:
-
-{% page-ref page="../practice/design-system-chart.md" %}
-
 ## Design Systems
 
 These are the major design systems setting industry standard:
@@ -170,6 +164,8 @@ These are the major design systems setting industry standard:
 | **10** | [A-Frame](https://aframe.io/) | 3D  |
 
 Repository of design systems and pattern libraries: [Adele](http://adele.uxpin.com/)
+
+{% page-ref page="../practice/design-system-chart.md" %}
 
 ## Links
 
