@@ -3,7 +3,7 @@ title: Practice
 sidebarDepth: 2
 ---
 
-# Components 1
+# Components Set 1
 
 ## Accordion
 
