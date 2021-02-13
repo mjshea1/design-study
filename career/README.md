@@ -48,7 +48,7 @@ In a nutshell, VX is like UX, but with motion. VX is a holistic approach, always
 
 ## Sources
 
-|  | Link | ✓ |
+|  | Link | Year |
 | :--- | :--- | ---: |
 | **1** | [A guide to design roles in the tech](https://medium.com/getting-started-as-a-designer/a-guide-to-design-roles-in-the-tech-ecosystem-2019-f2df1ff1c64e) |  |
 | **2** | [Design in Tech Reports](https://designintech.report/) |  |
@@ -59,7 +59,7 @@ In a nutshell, VX is like UX, but with motion. VX is a holistic approach, always
 | **7** | [Making Profit from a Design System](https://medium.com/sketch-app-sources/making-profit-from-a-design-system-a78eea017104) |  |
 | **8** | [Product Designers Should Forget About Coding. Learn Product Management Instead.](https://medium.com/hubspot-product/designers-should-forget-about-coding-learn-product-management-instead-5285b538b364) |  |
 | **9** | [DesignOps 101](https://www.nngroup.com/articles/design-operations-101/) |  |
-| **10** | [Designing a Systems Team](https://medium.com/eightshapes-llc/designing-a-systems-team-d22f27a2d81d) | ✓ |
+| **10** | [Designing a Systems Team](https://medium.com/eightshapes-llc/designing-a-systems-team-d22f27a2d81d) | Year |
 | **11** | [Science-backed ways to boost creativity](https://uxplanet.org/science-backed-ways-to-boost-creativity-28b140b420bc) |  |
 
 
