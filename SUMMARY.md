@@ -21,6 +21,7 @@
   * [Iconography](practice/iconography.md)
   * [Grids](practice/grids.md)
   * [Design Reviews](practice/design-reviews.md)
+  * [Learning](practice/learning.md)
   * [UI Checklist](practice/ui-checklist.md)
 * [Accessibility](accessibility/README.md)
   * [Checklist](accessibility/checklist.md)

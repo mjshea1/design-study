@@ -27,7 +27,7 @@ To retain knowlege I have set up some self assessment questions.
 | **1** | [Collection of Design Principles](https://principles.design/) |
 | **2** | [Dieter Rams: 10 Timeless Commandments for Good Design](https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design) |
 
-### Psychology
+#### Psychology
 
 |  | Link |
 | :--- | :--- |

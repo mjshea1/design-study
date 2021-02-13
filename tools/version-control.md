@@ -94,7 +94,3 @@ A secured place to version, manage and collaborate Sketch files and Sketch libra
 * [Abstract vs Kactus vs Plant](https://blog.prototypr.io/abstract-vs-kactus-vs-plant-a-guide-of-version-control-solutions-for-sketch-7da0a8ab5105) - a guide of version control solutions for Sketch
 * [The Great Design Battle of 2018](https://medium.com/sketch-app-sources/design-tool-choices-2018-a3e6a8ce87c6) - Trends and Predictions + Why Sketch Prototyping is a game changer.
 
-## Links
-
-* [Visual Breaking Change in Design Systems](https://medium.com/eightshapes-llc/visual-breaking-change-in-design-systems-1e9109fac9c4)
-
