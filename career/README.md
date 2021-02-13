@@ -46,21 +46,23 @@ The roles above mostly work for marketing, a position where you define the brand
 
 In a nutshell, VX is like UX, but with motion. VX is a holistic approach, always advocating the user, which also differentiates the role of the motion designer from the VX designer. The VX Designer brings your design language system into life, delivering anything from micro-animations to supportive video implementations.
 
-## Sources
+## Resources
 
 |  | Link | Year |
 | :--- | :--- | ---: |
-| **1** | [A guide to design roles in the tech](https://medium.com/getting-started-as-a-designer/a-guide-to-design-roles-in-the-tech-ecosystem-2019-f2df1ff1c64e) |  |
-| **2** | [Design in Tech Reports](https://designintech.report/) |  |
-| **3** | [What’s the impact of Design, you ask?](https://uxdesign.cc/whats-the-impact-of-design-you-ask-31922d394956) |  |
-| **4** | [Productivity Is Really About What You Don’t Do](https://jkglei.com/getting-things-done/) |  |
-| **5** | [The Art of Giving Amazing Portfolio Presentations](https://medium.muz.li/the-art-of-giving-amazing-portfolio-presentations-656cddcd69a) |  |
-| **6** | [Get any UX job with a stellar portfolio presentation](https://uxplanet.org/get-any-design-job-with-a-stellar-portfolio-presentation-by-reading-this-1b9ede9a479a) |  |
-| **7** | [Making Profit from a Design System](https://medium.com/sketch-app-sources/making-profit-from-a-design-system-a78eea017104) |  |
-| **8** | [Product Designers Should Forget About Coding. Learn Product Management Instead.](https://medium.com/hubspot-product/designers-should-forget-about-coding-learn-product-management-instead-5285b538b364) |  |
-| **9** | [DesignOps 101](https://www.nngroup.com/articles/design-operations-101/) |  |
-| **10** | [Designing a Systems Team](https://medium.com/eightshapes-llc/designing-a-systems-team-d22f27a2d81d) | Year |
-| **11** | [Science-backed ways to boost creativity](https://uxplanet.org/science-backed-ways-to-boost-creativity-28b140b420bc) |  |
+| **1** | [A guide to design roles in the tech](https://medium.com/getting-started-as-a-designer/a-guide-to-design-roles-in-the-tech-ecosystem-2019-f2df1ff1c64e) | 2019 |
+| **2** | [Design in Tech Reports](https://designintech.report/) | 2020 |
+| **3** | [What’s the impact of Design, you ask?](https://uxdesign.cc/whats-the-impact-of-design-you-ask-31922d394956) | 2018 |
+| **4** | [Productivity Is Really About What You Don’t Do](https://jkglei.com/getting-things-done/) | - |
+| **7** | [Product Designers Should Forget About Coding. Learn Product Management Instead.](https://medium.com/hubspot-product/designers-should-forget-about-coding-learn-product-management-instead-5285b538b364) | 2019 |
+| **8** | [DesignOps 101](https://www.nngroup.com/articles/design-operations-101/) | 2019 |
+
+#### Portoflio
+
+|  | Link | Year |
+| :--- | :--- | ---: |
+| **1** | [The Art of Giving Amazing Portfolio Presentations](https://medium.muz.li/the-art-of-giving-amazing-portfolio-presentations-656cddcd69a) | 2018 |
+| **2** | [Get any UX job with a stellar portfolio presentation](https://uxplanet.org/get-any-design-job-with-a-stellar-portfolio-presentation-by-reading-this-1b9ede9a479a) | 2017 |
 
 
 

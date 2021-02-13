@@ -182,6 +182,8 @@ These are the major design systems setting industry standard:
 * [The complete guide to Angular Material Themes](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1)
 * [Rhythm your Design System with golden ratio](https://uxdesign.cc/design-system-based-on-the-golden-ratio-ui-%C9%B8-e45eb98655cb)
 * [Bye bye Material Design](https://medium.com/techtrument/bye-bye-material-design-acaebcc7c6b4) - Some of the cons of using Material Design \(2018\)
+* [Making Profit from a Design System](https://medium.com/sketch-app-sources/making-profit-from-a-design-system-a78eea017104)
+* [Designing a Systems Team](https://medium.com/eightshapes-llc/designing-a-systems-team-d22f27a2d81d) - Building the perfect design system team \(2017\)
 
 ### Books
 
