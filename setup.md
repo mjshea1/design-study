@@ -22,16 +22,13 @@ description: Setup and notes for my study site.
 
 * _Used for a direct quote or copy_
 
-📑 **References -** the use of a source of information in order to ascertain something. **Code Snip**
-
-* _Used for where it was directly taken form_
-* Not to be a quote or copy
-
-📋 **Sources -** a book or document used to provide evidence in research. - **List / Table**
+📑 **References -** the use of a source of information in order to ascertain something. **Code Snip**  
+📑 **Sources -** a book or document used to provide evidence in research.
 
 * _Used for references of where the information was taken_
+* Not to be a quote or copy
 
-💻 **Links** - a link from a hypertext file or document to another location or file. - **List / Table**
+📋 **Links** - a link from a hypertext file or document to another location or file. - **List / Table**
 
 * _Used for additional information, reading or reference._ 
 * Or for additional reading related to the topic I don't want to loose.
@@ -45,7 +42,7 @@ description: Setup and notes for my study site.
 
 
 
-Other terms not used - Footnote, Note, Credit
+Other terms not used - Footnote, Note, Credit 
 
 \*\*\*\*
 
