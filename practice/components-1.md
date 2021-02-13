@@ -59,7 +59,7 @@ Types, States, Design, Guides
 A banner displays a prominent message and possible related optional actions.
 
 **Atomic Category:** Molecule   
-**Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/system-capabilities/notifications/), [Material Design](https://material.io/components/banners) 
+**Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/system-capabilities/notifications/), [Material Design](https://material.io/components/banners)
 
 #### ➥ Notes
 
@@ -74,8 +74,7 @@ Types, States, Design, Guides
 Breadcrumbs are a navigation system used to show a user's location in a site or app. 
 
 **Atomic Category:** Molecule   
-**Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Carbon](https://www.carbondesignsystem.com/components/breadcrumb/usage/)   
-**Similar:**
+**Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Carbon](https://www.carbondesignsystem.com/components/breadcrumb/usage/)
 
 #### ➥ Notes
 
@@ -174,8 +173,7 @@ Types, States, Design, Guides
 Dialogs inform users about a task and contain information, required decisions, or involve multiple tasks.
 
 **Atomic Category:** Molecule / Organism   
-**Examples:** [Angular Material](https://material.angular.io/components/dialog/overview), [Atlassian](https://atlassian.design/components/modal-dialog/examples), [Carbon](https://www.carbondesignsystem.com/components/modal/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/modality/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/app-architecture/modality/), [Material Design](https://material.io/components/dialogs), [Spectrum](https://spectrum.adobe.com/page/dialog/)   
-**Similar:**
+**Examples:** [Angular Material](https://material.angular.io/components/dialog/overview), [Atlassian](https://atlassian.design/components/modal-dialog/examples), [Carbon](https://www.carbondesignsystem.com/components/modal/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/modality/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/app-architecture/modality/), [Material Design](https://material.io/components/dialogs), [Spectrum](https://spectrum.adobe.com/page/dialog/)
 
 #### ➥ Notes
 
@@ -187,10 +185,10 @@ Types, States, Design, Guides
 
 ## Divider
 
-**Definition:** A verticle or horizontal visual divider.   
- **Atomic Category:** Atom   
- **Examples:** [Angular Material](https://material.angular.io/components/divider/overview), [Material Design](https://material.io/components/dividers), [Spectrum](https://spectrum.adobe.com/page/divider/)   
- **Similar:**
+A vertical or horizontal visual divider.
+
+**Atomic Category:** Atom   
+**Examples:** [Angular Material](https://material.angular.io/components/divider/overview), [Material Design](https://material.io/components/dividers), [Spectrum](https://spectrum.adobe.com/page/divider/)
 
 #### ➥ Notes
 
@@ -202,13 +200,15 @@ Types, States, Design, Guides
 
 ## Drawer
 
-_**Also Known As:**_ _Navigation drawer_   
- **Definition:** Drawers are a popout that contains navigation, information and/or other components.   
- **Atomic Category:** Atom   
- **Examples:** [Angular Material](https://material.angular.io/components/divider/overview), [Material Design](https://material.io/components/navigation-drawer), [Spectrum](https://spectrum.adobe.com/page/divider/)   
- **Similar:**
+Drawers are a popout that contains navigation, information and/or other components.
+
+**Aka:** Navigation drawer   
+**Atomic Category:** Atom   
+ **Examples:** [Angular Material](https://material.angular.io/components/divider/overview), [Material Design](https://material.io/components/navigation-drawer), [Spectrum](https://spectrum.adobe.com/page/divider/)
 
 #### ➥ Notes
+
+Material Design contains two different drawers, distiguished by use.
 
 Types, States, Design, Guides
 
@@ -218,11 +218,12 @@ Types, States, Design, Guides
 
 ## Dropdown
 
-_**Also Known As:**_ _Select_   
- **Definition:** Allows the user to select one or more options using a dropdown.   
- **Atomic Category:** Atom   
- **Examples:** [Angular Material](https://material.angular.io/components/dialog/overview), [Atlassian](https://atlassian.design/components/select/examples), [Carbon](https://www.carbondesignsystem.com/components/select/usage/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/pull-down-buttons/), [Material Design](https://material.io/components/menus#dropdown-menu), [Spectrum](https://spectrum.adobe.com/page/picker/)   
- **Similar:**
+Allows the user to select one or more options using a dropdown. 
+
+_**Aka:**_ _Select_   
+**Definition:** Allows the user to select one or more options using a dropdown.   
+**Atomic Category:** Atom   
+**Examples:** [Angular Material](https://material.angular.io/components/dialog/overview), [Atlassian](https://atlassian.design/components/select/examples), [Carbon](https://www.carbondesignsystem.com/components/select/usage/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/pull-down-buttons/), [Material Design](https://material.io/components/menus#dropdown-menu), [Spectrum](https://spectrum.adobe.com/page/picker/)
 
 #### ➥ Notes
 
@@ -234,11 +235,10 @@ Types, States, Design, Guides
 
 ## Link
 
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link)   
- **Similar:**
+Component Definition
+
+**Atomic Category:** Atom / Molecule / Organism   
+ **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link)
 
 #### ➥ Notes
 
@@ -250,11 +250,11 @@ Types, States, Design, Guides
 
 ## List
 
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
+Component Definition
+
+**Atomic Category:** Atom / Molecule / Organism   
+**Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
+**Similar:**
 
 #### ➥ Notes
 
@@ -266,11 +266,11 @@ Types, States, Design, Guides
 
 ## Menu
 
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
+Component Definition
+
+**Atomic Category:** Atom / Molecule / Organism   
+**Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
+**Similar:**
 
 #### ➥ Notes
 
