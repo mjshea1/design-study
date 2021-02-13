@@ -22,7 +22,7 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Pagination
+## Pagination
 
 _**Also Known As:**_ _Paginator_   
  **Definition:** def   
@@ -44,7 +44,7 @@ _**Also Known As:**_ _Paginator_
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Picker
+## Picker
 
 _**Also Known As:**_  __   
  **Definition:** def   
@@ -66,7 +66,7 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Progress Indicator
+## Progress Indicator
 
 _**Also Known As:**_  __   
  **Definition:** def   
@@ -88,7 +88,7 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Raiting
+## Raiting
 
 _**Also Known As:**_  __   
  **Definition:** def   
@@ -110,7 +110,7 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Radio Buttons
+## Radio Buttons
 
 **Definition:** def   
  **Atomic Category:** Atom / Molecule / Organism   
@@ -131,7 +131,7 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Search
+## Search
 
 _**Also Known As:**_ _Autocomplete_   
  **Definition:** def   
@@ -153,7 +153,7 @@ _**Also Known As:**_ _Autocomplete_
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Sheet
+## Sheet
 
 _**Also Known As:**_  __   
  **Definition:** def   
@@ -175,7 +175,7 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Slider
+## Slider
 
 _**Also Known As:**_  __   
  **Definition:** def   
@@ -197,204 +197,141 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Stepper
+## Stepper
 
-_**Also Known As:**_  __   
- **Definition:** def   
+Component Definition
+
+**Atomic Category:** Atom / Molecule / Organism   
+**Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)
+
+#### ➥ Notes
+
+Types, States, Design, Guides
+
+#### Links
+
+* Link
+
+## Table
+
+Component Definition
+
+**Aka:** Grid  
  **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
+ **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)
 
-#### ‣ Types
+#### ➥ Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+#### Links
 
-#### ‣ Guides
+* Link 
 
-#### ‣ Resources
+## Tabs
 
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
+Component Definition
 
+**Atomic Category:** Atom / Molecule / Organism   
+ **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)
 
-### Table
+#### ➥ Notes
 
-_**Also Known As:**_ _Grid_   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
+Types, States, Design, Guides
 
-#### ‣ Types
+#### Links
 
-#### ‣ States
+* Link
 
-#### ‣ Design
+## Text Field
 
-#### ‣ Guides
+Component Definition
 
-#### ‣ Resources
+**Definition:** def   
+**Atomic Category:** Atom / Molecule / Organism   
+ **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)
 
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
+#### ➥ Notes
 
+Types, States, Design, Guides
 
-### Tabs
+#### Links
 
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
+* [Placeholders in Form Fields are Harmful](https://www.nngroup.com/articles/form-design-placeholders/) \(2014\) 
 
-#### ‣ Types
+## Toast
 
-#### ‣ States
+Component Definition
 
-#### ‣ Design
+**Aka:** Snackbar, Notification, Alert   
+**Atomic Category:** Atom / Molecule / Organism   
+**Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link) 
 
-#### ‣ Guides
+#### ➥ Notes
 
-#### ‣ Resources
+Types, States, Design, Guides
 
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
+#### Links
 
+* Link 
 
-### Text Field
+## Toggle / Switch
 
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
+Component Definition
 
-#### ‣ Types
+**Atomic Category:** Atom / Molecule / Organism   
+**Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)
 
-#### ‣ States
+#### ➥ Notes
 
-#### ‣ Design
+Types, States, Design, Guides
 
-#### ‣ Guides
+#### Links
 
-#### ‣ Resources
+* Link 
 
-|  | Article | Date |
-| :--- | :--- | ---: |
-| 1 | [Placeholders in Form Fields are Harmful](https://www.nngroup.com/articles/form-design-placeholders/) | 2014 |
+## Toolbar
 
- 
+A toolbar can display navigation, information, and actions relating to the current screen.
 
-### Toast
+**Atomic Category:** Organism   
+**Examples:** [Material Design](https://material.io/components/app-bars-bottom), [Material Design](https://material.io/components/app-bars-top)
 
-_**Also Known As:**_ _Snackbar, Notification, Alert_   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
+#### ➥ Notes
 
-#### ‣ Types
+Types, States, Design, Guides
 
-#### ‣ States
+#### Links
 
-#### ‣ Design
+* Link
 
-#### ‣ Guides
+## Tooltip
 
-#### ‣ Resources
+Component Definition
 
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
+**Atomic Category:** Atom / Molecule / Organism   
+**Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link) 
 
+#### ➥ Notes
 
- 
+Types, States, Design, Guides
 
-### Toggle / Switch
+#### Links
 
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
+* Link 
 
-#### ‣ Types
+## Tree
 
-#### ‣ States
+Component Definition
 
-#### ‣ Design
+**Atomic Category:** Atom / Molecule / Organism   
+**Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)
 
-#### ‣ Guides
+#### ➥ Notes
 
-#### ‣ Resources
+Types, States, Design, Guides
 
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
+#### Links
 
-
-### Toolbar
-
-**Definition:** An toolbar can display navigation, information, and actions relating to the current screen.   
- **Atomic Category:** Organism   
- **Examples:** [Material Design](https://material.io/components/app-bars-bottom), [Material Design](https://material.io/components/app-bars-top)   
- **Similar:**
-
-#### ‣ Types
-
-#### ‣ States
-
-#### ‣ Design
-
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
-
-### Tooltip
-
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
-
-#### ‣ Types
-
-#### ‣ States
-
-#### ‣ Design
-
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
-
-### Tree
-
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Spectrum](link)   
- **Similar:**
-
-#### ‣ Types
-
-#### ‣ States
-
-#### ‣ Design
-
-#### ‣ Guides
-
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
+* Link 
 

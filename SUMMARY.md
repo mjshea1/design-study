@@ -14,7 +14,7 @@
   * [Design Thinking](method/design-thinking.md)
 * [Practice](practice/README.md)
   * [Design System Chart](practice/design-system-chart.md)
-  * [Components 1](practice/components-1.md)
+  * [Components 1](practice/components1.md)
   * [Components 2](practice/components-2.md)
   * [Color](practice/color.md)
   * [Typography](practice/typography/README.md)
