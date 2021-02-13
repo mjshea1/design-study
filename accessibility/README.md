@@ -18,7 +18,7 @@ To retain knowlege I have set up some self assessment questions.
 
 📝 **Accessibility** → Answer List
 
-## Source Links
+## Sources
 
 |  | Link | ✓ |
 | :--- | :--- | ---: |
