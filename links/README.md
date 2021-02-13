@@ -5,7 +5,7 @@ sidebarDepth: 1
 
 # Links
 
-This is my collection of links and resources I've collected over the past few years. It includes links to significant articles, designers, news sites, and digital tools. One of the best ways to learn design is to explore the world's best designers and their work. Self-education is essential to growing your career and skill. And because I can't remember everything, I need to create lists to help remember the great ones!
+This is my collection of links I'm collecting for reference. Self-education is essential to growing your career and skill. Because I can't remember everything, I need to create lists to help remember the great ones!
 
 ##  Inspiration
 
