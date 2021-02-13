@@ -18,11 +18,11 @@ To retain knowlege I have set up some self assessment questions.
 
 📝 **Design Practice** → Answer List
 
-## Source Links
+## Sources
 
-|  | Link | ✓ |
+|  | Link | Year |
 | :--- | :--- | ---: |
-| **1** | [Desktop Screen Resolution Stats](https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide) | ✓ |
+| **1** | [Desktop Screen Resolution Stats](https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide) |  |
 | **2** | [Checklists for Design](https://www.checklist.design/) |  |
 | **3** | [Scroll to the future](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations) |  |
 | **4** | [Iconic Simplicity. The Vital Role of Icons](https://blog.tubikstudio.com/iconic-simplicity-the-vital-role-of-icons/) |  |
