@@ -9,7 +9,7 @@ sidebarDepth: 2
 
 An accordion is a vertically stacked list of headers that reveal or hide associated sections of content. 
 
-**Aka:** Expansion Panel  
+**Aka:** Expansion Panel, Expandable Header  
 **Atomic Category:** Molecule   
 **Design Systems:** [Angular Material](https://material.angular.io/components/expansion/examples), [Carbon](https://www.carbondesignsystem.com/components/accordion/usage), [Edison](https://edisondesignsystem.com/accordion), [Fractal](https://fractal.hilton.com/ui-ux-guidelines/content/accordions/), [Pajamas](https://design.gitlab.com/components/accordion)   
 **Similar:** [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/views/tables/)
@@ -26,11 +26,10 @@ Types, States, Design, Guides
 
 ## Avatar
 
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link)   
- **Similar:**
+Component Definition
+
+**Atomic Category:** Atom / Molecule / Organism   
+**Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link) 
 
 #### ➥ Notes
 
@@ -42,10 +41,10 @@ Types, States, Design, Guides
 
 ## Badge
 
-**Definition:** A Badge is a small value indicator that can be overlaid on anotehr object.   
- **Atomic Category:** Atom   
- **Examples:** [Angular Material](https://material.angular.io/components/badge/overview), [Atlassian](https://atlassian.design/components/badge/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/)  
- **Similar:**
+A Badge is a small value indicator that can be overlaid on another object.
+
+**Atomic Category:** Atom   
+**Examples:** [Angular Material](https://material.angular.io/components/badge/overview), [Atlassian](https://atlassian.design/components/badge/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/)
 
 #### ➥ Notes
 
@@ -57,10 +56,10 @@ Types, States, Design, Guides
 
 ## Banner
 
-**Definition:** A banner displays a prominent message and possible related optional actions.   
- **Atomic Category:** Molecule   
- **Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/system-capabilities/notifications/), [Material Design](https://material.io/components/banners)   
- **Similar:**
+A banner displays a prominent message and possible related optional actions.
+
+**Atomic Category:** Molecule   
+**Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/system-capabilities/notifications/), [Material Design](https://material.io/components/banners) 
 
 #### ➥ Notes
 
@@ -72,10 +71,11 @@ Types, States, Design, Guides
 
 ## Breadcrumb
 
-**Definition:** Breadcrumbs are a navigation system used to show a user's location in a site or app.   
- **Atomic Category:** Molecule   
- **Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Carbon](https://www.carbondesignsystem.com/components/breadcrumb/usage/)   
- **Similar:**
+Breadcrumbs are a navigation system used to show a user's location in a site or app. 
+
+**Atomic Category:** Molecule   
+**Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Carbon](https://www.carbondesignsystem.com/components/breadcrumb/usage/)   
+**Similar:**
 
 #### ➥ Notes
 
@@ -87,10 +87,11 @@ Types, States, Design, Guides
 
 ## Button
 
-_**Also Known As:**_ _Push Button_   
- **Definition:** Buttons allow users to take actions, and make choices, with a single tap.   
- **Atomic Category:** Atom   
- **Examples:** [Angular Material](https://material.angular.io/components/button/overview), [Atlassian](https://atlassian.design/components/button/examples), [Carbon](https://www.carbondesignsystem.com/components/button/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/push-buttons/) [Material Design](https://material.io/components/buttons), [Spectrum](https://spectrum.adobe.com/page/button/) 
+Buttons allow users to take actions, and make choices, with a single tap
+
+**Aka:** Push Button   
+**Atomic Category:** Atom   
+**Examples:** [Angular Material](https://material.angular.io/components/button/overview), [Atlassian](https://atlassian.design/components/button/examples), [Carbon](https://www.carbondesignsystem.com/components/button/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/push-buttons/) [Material Design](https://material.io/components/buttons), [Spectrum](https://spectrum.adobe.com/page/button/) 
 
 #### ➥ Notes
 
@@ -108,11 +109,10 @@ _**Also Known As:**_ _Push Button_
 
 ## Button Toggle
 
-_**Also Known As:**_  __   
- **Definition:** def   
- **Atomic Category:** Atom / Molecule / Organism   
- **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link)   
- **Similar:**
+Component Definition
+
+**Atomic Category:** Atom / Molecule / Organism   
+**Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link)
 
 #### ➥ Notes
 
@@ -124,11 +124,11 @@ Types, States, Design, Guides
 
 ## Card
 
-_**Also Known As:**_ _Tile_   
- **Definition:** A card is a styled container for content and actions about a single subject.   
- **Atomic Category:** Organism   
- **Examples:** [Angular Material](https://material.angular.io/components/card/overview), [Carbon](https://www.carbondesignsystem.com/components/tile/usage/), [Spectrum](https://spectrum.adobe.com/page/cards/)   
- **Similar:**
+A card is a styled container for content and actions about a single subject.
+
+Aka: Tile   
+**Atomic Category:** Organism   
+**Examples:** [Angular Material](https://material.angular.io/components/card/overview), [Carbon](https://www.carbondesignsystem.com/components/tile/usage/), [Spectrum](https://spectrum.adobe.com/page/cards/) 
 
 #### ➥ Notes
 
@@ -140,10 +140,10 @@ Types, States, Design, Guides
 
 ## Checkbox
 
-**Definition:** Checkboxes allow the user to select one or more items from a set. Checkboxes can be used to turn an option on or off.   
- **Atomic Category:** Atom   
- **Examples:** [Angular Material](https://material.angular.io/components/checkbox/overview), [Atlassian](https://atlassian.design/components/checkbox/examples), [Carbon](https://www.carbondesignsystem.com/components/checkbox/usage), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/checkboxes/), [Material Design](https://material.io/components/selection-controls#checkboxes), [Spectrum](https://spectrum.adobe.com/page/checkbox/)   
- **Similar:**
+Checkboxes allow the user to select one or more items from a set. Checkboxes can be used to turn an option on or off.
+
+**Atomic Category:** Atom   
+**Examples:** [Angular Material](https://material.angular.io/components/checkbox/overview), [Atlassian](https://atlassian.design/components/checkbox/examples), [Carbon](https://www.carbondesignsystem.com/components/checkbox/usage), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/checkboxes/), [Material Design](https://material.io/components/selection-controls#checkboxes), [Spectrum](https://spectrum.adobe.com/page/checkbox/)
 
 #### ➥ Notes
 
@@ -155,11 +155,11 @@ Types, States, Design, Guides
 
 ## Chip
 
-_**Also Known As:**_ _Tag_   
- **Definition:** Chips are compact elements that represent an input, attribute, or action.   
- **Atomic Category:** Atom   
- **Examples:** [Angular Material](https://material.angular.io/components/chips/overview), [Atlassian](https://atlassian.design/components/lozenge/examples), [Carbon](https://www.carbondesignsystem.com/components/tag/usage/), [Material Design](https://material.io/components/selection-controls#checkboxes), [Spectrum](https://spectrum.adobe.com/page/tag/)   
- **Similar:**
+Chips are compact elements that represent an input, attribute, or action.
+
+**Aka:** Tag   
+**Atomic Category:** Atom   
+**Examples:** [Angular Material](https://material.angular.io/components/chips/overview), [Atlassian](https://atlassian.design/components/lozenge/examples), [Carbon](https://www.carbondesignsystem.com/components/tag/usage/), [Material Design](https://material.io/components/selection-controls#checkboxes), [Spectrum](https://spectrum.adobe.com/page/tag/)
 
 #### ➥ Notes
 
@@ -171,10 +171,11 @@ Types, States, Design, Guides
 
 ## Dialog / Modal
 
-**Definition:** Dialogs inform users about a task and contain information, required decisions, or involve multiple tasks.   
- **Atomic Category:** Molecule / Organism   
- **Examples:** [Angular Material](https://material.angular.io/components/dialog/overview), [Atlassian](https://atlassian.design/components/modal-dialog/examples), [Carbon](https://www.carbondesignsystem.com/components/modal/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/modality/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/app-architecture/modality/), [Material Design](https://material.io/components/dialogs), [Spectrum](https://spectrum.adobe.com/page/dialog/)   
- **Similar:**
+Dialogs inform users about a task and contain information, required decisions, or involve multiple tasks.
+
+**Atomic Category:** Molecule / Organism   
+**Examples:** [Angular Material](https://material.angular.io/components/dialog/overview), [Atlassian](https://atlassian.design/components/modal-dialog/examples), [Carbon](https://www.carbondesignsystem.com/components/modal/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/modality/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/app-architecture/modality/), [Material Design](https://material.io/components/dialogs), [Spectrum](https://spectrum.adobe.com/page/dialog/)   
+**Similar:**
 
 #### ➥ Notes
 
