@@ -146,12 +146,6 @@ A design system unites product teams around a common visual language. It reduces
     * Building writing guidelines
       * Start with an audit, Define the findings, Get buy-in, find a home, develop
 
- 
-
-#### Comparison of popular design systems:
-
-{% page-ref page="../practice/design-system-chart.md" %}
-
 ## Design Systems
 
 These are the major design systems setting industry standard:
@@ -169,17 +163,30 @@ These are the major design systems setting industry standard:
 | **9** | [Polaris](https://polaris.shopify.com/) | Shopify |
 | **10** | [A-Frame](https://aframe.io/) | 3D  |
 
-Repository of design systems and pattern libraries: [Adele](http://adele.uxpin.com/)
+{% page-ref page="../practice/design-system-chart.md" %}
 
-## Links
+### **Design System Collections**
 
-* [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook) - Free online book from InVision
-* [Design Systems](https://www.smashingmagazine.com/design-systems-book/) - A Smashing Magazine book by Alla Kholmatova
-
-**Design System Collections**
-
+* [Adele](http://adele.uxpin.com/) **-** The repository of publicly available design systems and pattern libraries
 * [Design Sysem Repo](https://designsystemsrepo.com/design-systems/) - A comprehensive and curated list of design systems
 * [Website Style Guide Resources](http://styleguides.io) - Pattern libraries, code standards docs and style guides
 
+ 
+
+## Links
+
+* [Getting Started with Design Systems — Part 1](https://medium.com/thinking-design/design-systems-101-what-why-how-e58ee0e7a48)
+* [What is a Design System?](https://rangle.io/blog/what-is-a-design-system/)
+* [Uber Design Platform](https://medium.com/uber-design/uber-design-platform-1ebff86c89e7)
+* [Google I/O ’18 — Material Theming in a Nutshell](https://blog.prototypr.io/google-i-o-18-material-theming-180032431b9e)
+* [The complete guide to Angular Material Themes](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1)
+* [Rhythm your Design System with golden ratio](https://uxdesign.cc/design-system-based-on-the-golden-ratio-ui-%C9%B8-e45eb98655cb)
+* [Bye bye Material Design](https://medium.com/techtrument/bye-bye-material-design-acaebcc7c6b4) - Some of the cons of using Material Design \(2018\)
+
+### Books
+
+* [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook) - Free online book from InVision
+* [Design Systems](https://www.smashingmagazine.com/design-systems-book/) - A Smashing Magazine book by Alla Kholmatova
+* 
 
 
