@@ -5,34 +5,26 @@ sidebarDepth: 2
 
 # Components 1
 
-### Accordion
+## Accordion
 
-_**Also Known As:**_ _Expansion Panel_   
- **Definition:** An accordion is a vertically stacked list of headers that reveal or hide associated sections of content.   
- **Atomic Category:** Molecule   
- **Examples:** [Angular Material](https://material.angular.io/components/expansion/examples), [Carbon](https://www.carbondesignsystem.com/components/accordion/usage), [Edison](https://edisondesignsystem.com/accordion), [Fractal](https://fractal.hilton.com/ui-ux-guidelines/content/accordions/), [Pajamas](https://design.gitlab.com/components/accordion)   
- **Similar:** [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/views/tables/)   
+An accordion is a vertically stacked list of headers that reveal or hide associated sections of content. 
 
+**Aka:** Expansion Panel  
+**Atomic Category:** Molecule   
+**Design Systems:** [Angular Material](https://material.angular.io/components/expansion/examples), [Carbon](https://www.carbondesignsystem.com/components/accordion/usage), [Edison](https://edisondesignsystem.com/accordion), [Fractal](https://fractal.hilton.com/ui-ux-guidelines/content/accordions/), [Pajamas](https://design.gitlab.com/components/accordion)   
+**Similar:** [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/views/tables/)
 
-#### ‣ Types
+### Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+### Links
 
-#### ‣ Guides
+* [Tabs vs. Accordions](https://uxdesign.cc/little-things-in-ux-design-part-1-tabs-v-s-accordions-47390e4910c3) \(2019\)
+* [Accordions on Mobile](https://www.nngroup.com/articles/mobile-accordions/) \(2015\)
+* [Accordion Menu Design Pattern](https://ui-patterns.com/patterns/AccordionMenu)
 
-#### ‣ Resources
-
-|  | Link | Date |
-| :--- | :--- | ---: |
-| **1** | [Tabs vs. Accordions](https://uxdesign.cc/little-things-in-ux-design-part-1-tabs-v-s-accordions-47390e4910c3) | 2019 |
-| **2** | [Accordions on Mobile](https://www.nngroup.com/articles/mobile-accordions/) | 2015 |
-| **3** | [Accordion Menu Design Pattern](https://ui-patterns.com/patterns/AccordionMenu) | - |
-
- 
-
-### Avatar
+## Avatar
 
 _**Also Known As:**_  __   
  **Definition:** def   
@@ -40,100 +32,67 @@ _**Also Known As:**_  __
  **Examples:** [Angular Material](link), [Atlassian](link), [Carbon](link), [Edison](link), [Microsoft Fluent UI](link), [Human Interface Guidelines \(iOS\)](link), [Human Interface Guidelines \(macOS\)](link), [Material Design](link), [Material-UI](link), [GitLab Pajamas](link), [Github Primer](link), [Spectrum](link)   
  **Similar:**
 
-#### ‣ Types
+### Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+### Links
 
-#### ‣ Guides
+* Link 
 
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
-
- 
-
-### Badge
+## Badge
 
 **Definition:** A Badge is a small value indicator that can be overlaid on anotehr object.   
  **Atomic Category:** Atom   
  **Examples:** [Angular Material](https://material.angular.io/components/badge/overview), [Atlassian](https://atlassian.design/components/badge/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/)  
  **Similar:**
 
-#### ‣ Types
+### Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+### Links
 
-#### ‣ Guides
+* Link
 
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
-
-### Banner
+## Banner
 
 **Definition:** A banner displays a prominent message and possible related optional actions.   
  **Atomic Category:** Molecule   
  **Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/system-capabilities/notifications/), [Material Design](https://material.io/components/banners)   
  **Similar:**
 
-#### ‣ Types
+### Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+### Links
 
-#### ‣ Guides
+* Link
 
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
-
-### Breadcrumb
+## Breadcrumb
 
 **Definition:** Breadcrumbs are a navigation system used to show a user's location in a site or app.   
  **Atomic Category:** Molecule   
  **Examples:** [Atlassian](https://atlassian.design/components/banner/examples), [Carbon](https://www.carbondesignsystem.com/components/breadcrumb/usage/)   
  **Similar:**
 
-#### ‣ Types
+### Notes
 
-#### ‣ States
+Types, States, Design, Guides
 
-#### ‣ Design
+### Links
 
-#### ‣ Guides
+* Link
 
-#### ‣ Resources
-
-|  |  |  |  |  |
-| :--- | :--- | :--- | :--- | ---: |
-
-
-### Button
+## Button
 
 _**Also Known As:**_ _Push Button_   
  **Definition:** Buttons allow users to take actions, and make choices, with a single tap.   
  **Atomic Category:** Atom   
- **Examples:** [Angular Material](https://material.angular.io/components/button/overview), [Atlassian](https://atlassian.design/components/button/examples), [Carbon](https://www.carbondesignsystem.com/components/button/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/push-buttons/) [Material Design](https://material.io/components/buttons), [Spectrum](https://spectrum.adobe.com/page/button/)   
+ **Examples:** [Angular Material](https://material.angular.io/components/button/overview), [Atlassian](https://atlassian.design/components/button/examples), [Carbon](https://www.carbondesignsystem.com/components/button/usage/), [Human Interface Guidelines \(iOS\)](https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/), [Human Interface Guidelines \(macOS\)](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/push-buttons/) [Material Design](https://material.io/components/buttons), [Spectrum](https://spectrum.adobe.com/page/button/) 
 
-
-#### ‣ Types
-
-#### ‣ States
-
-#### ‣ Design
-
-#### ‣ Guides
+### **Notes**
 
 1. Make buttons look like buttons
 2. Put buttons where users expect to find them
@@ -143,13 +102,11 @@ _**Also Known As:**_ _Push Button_
 5. Avoid using too many buttons
 6. Provide visual or audio feedback on interaction
 
-#### ‣ Resources
+### Links
 
-|  |  |  |  |
-| :--- | :--- | :--- | ---: |
-| **1** | [UI cheat sheets: buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112) | Actions, Styling, Colors, States, Labeling, Targerts, Positions | ✓ |
-
-### Button Toggle
+* [UI cheat sheets: buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112) - Actions, Styling, Colors, States, Labeling, Targerts, Positions \(2019\)
+* 
+## Button Toggle
 
 _**Also Known As:**_  __   
  **Definition:** def   
@@ -171,7 +128,7 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Card
+## Card
 
 _**Also Known As:**_ _Tile_   
  **Definition:** A card is a styled container for content and actions about a single subject.   
@@ -187,13 +144,15 @@ _**Also Known As:**_ _Tile_
 
 #### ‣ Guides
 
+## Links
+
 #### ‣ Resources
 
 |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Checkbox
+## Checkbox
 
 **Definition:** Checkboxes allow the user to select one or more items from a set. Checkboxes can be used to turn an option on or off.   
  **Atomic Category:** Atom   
@@ -214,7 +173,7 @@ _**Also Known As:**_ _Tile_
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Chip
+## Chip
 
 _**Also Known As:**_ _Tag_   
  **Definition:** Chips are compact elements that represent an input, attribute, or action.   
@@ -236,7 +195,7 @@ _**Also Known As:**_ _Tag_
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Dialog / Modal
+## Dialog / Modal
 
 **Definition:** Dialogs inform users about a task and contain information, required decisions, or involve multiple tasks.   
  **Atomic Category:** Molecule / Organism   
@@ -257,7 +216,7 @@ _**Also Known As:**_ _Tag_
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Divider
+## Divider
 
 **Definition:** A verticle or horizontal visual divider.   
  **Atomic Category:** Atom   
@@ -278,7 +237,7 @@ _**Also Known As:**_ _Tag_
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Drawer
+## Drawer
 
 _**Also Known As:**_ _Navigation drawer_   
  **Definition:** Drawers are a popout that contains navigation, information and/or other components.   
@@ -300,7 +259,7 @@ _**Also Known As:**_ _Navigation drawer_
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Dropdown
+## Dropdown
 
 _**Also Known As:**_ _Select_   
  **Definition:** Allows the user to select one or more options using a dropdown.   
@@ -322,7 +281,7 @@ _**Also Known As:**_ _Select_
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Link
+## Link
 
 _**Also Known As:**_  __   
  **Definition:** def   
@@ -344,7 +303,7 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### List
+## List
 
 _**Also Known As:**_  __   
  **Definition:** def   
@@ -366,7 +325,7 @@ _**Also Known As:**_  __
 | :--- | :--- | :--- | :--- | ---: |
 
 
-### Menu
+## Menu
 
 _**Also Known As:**_  __   
  **Definition:** def   
