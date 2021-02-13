@@ -28,3 +28,8 @@ Balancing figure and ground can make the perceived image more clear. Using unusu
 
 Elements that move in the same direction are perceived to be more related than elements that move in different directions or are stationary.
 
+## Links
+
+* [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965) - Great articles with visuals
+* [Psychology in Design. Principles Helping to Understand Users](https://uxplanet.org/psychology-in-design-principles-helping-to-understand-users-10bcf122f4b0)
+
