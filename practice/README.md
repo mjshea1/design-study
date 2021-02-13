@@ -27,5 +27,6 @@ To retain knowlege I have set up some self assessment questions.
 | **3** | [Scroll to the future](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations) |  |
 | **6** | [UI/UX Design Glossary. Navigation Elements.](https://uxplanet.org/ui-ux-design-glossary-navigation-elements-b552130711c8) |  |
 | **7** | [Responsive design glossary](https://polypane.app/responsive-design-glossary/?ref=heydesigner) |  |
-| **8** | [UI cheat sheets: buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112) |  |
+
+
 
