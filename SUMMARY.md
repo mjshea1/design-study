@@ -17,6 +17,7 @@
   * [Color](practice/color.md)
   * [Typography](practice/typography/README.md)
     * [Links and Resources](practice/typography/links-resources.md)
+  * [Grids](practice/grids.md)
   * [Design Reviews](practice/design-reviews.md)
   * [UI Checklist](practice/ui-checklist.md)
 * [Accessibility](accessibility/README.md)
