@@ -34,7 +34,7 @@ Once you have a template, you can create pages from it by adding content.
 
 \*\*\*\*
 
-## 💻 **Links**
+## **Links**
 
 * [Atomic Design - Brad Frost](https://atomicdesign.bradfrost.com/table-of-contents/)
 * [Building Design Systems with Atomic Design](https://medium.muz.li/building-design-systems-with-atomic-design-93a13286f676)

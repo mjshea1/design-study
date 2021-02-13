@@ -10,6 +10,12 @@ description: Setup and notes for my study site.
 * [https://andwalsh.com/work/all/designer-emoji/](https://andwalsh.com/work/all/designer-emoji/) - Designer Emoji
 * [https://www.w3schools.com/charsets/ref\_utf\_punctuation.asp](https://www.w3schools.com/charsets/ref_utf_punctuation.asp) - HTML Symbols 
 
+## Usage
+
+**Resources** on pages are used for over arching links that reference that topic. If the topic is large enough for it's own page it gets moved.
+
+**Links** are posted on every subject page for continued reading information not listed on the page.
+
 ## Terms
 
 💬 **Citation -** quotation from or reference to a book, paper, especially in a scholarly work. - **Quote/ Note**
