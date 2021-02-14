@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hello!](README.md)
+* [Welcome](README.md)
 * [My Design Process](my-design-process/README.md)
   * [Design Process Outline](my-design-process/design-process-outline.md)
 * [Theory](theory/README.md)

@@ -22,14 +22,14 @@ To retain knowlege I have set up some self assessment questions.
 
 ## Resources
 
-|  | Link | Year |
-| :--- | :--- | ---: |
-| **1** | [Collection of Design Principles](https://principles.design/) |  |
-| **2** | [Dieter Rams: 10 Timeless Commandments for Good Design](https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design) | 2019 |
+|  | Link |
+| :--- | :--- |
+| **1** | [Collection of Design Principles](https://principles.design/) |
+| **2** | [Dieter Rams: 10 Timeless Commandments for Good Design](https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design) |
 
 #### Psychology
 
-|  | Link | Year |
-| :--- | :--- | ---: |
-| **1** | [Project Worlds — Achieving God Mode in Digital Design](https://uxdesign.cc/project-worlds-achieving-god-mode-in-digital-design-b7242dbe5770) | 2019 |
+|  | Link |
+| :--- | :--- |
+| **1** | [Project Worlds — Achieving God Mode in Digital Design](https://uxdesign.cc/project-worlds-achieving-god-mode-in-digital-design-b7242dbe5770) |
 
