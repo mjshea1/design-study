@@ -25,7 +25,7 @@ To retain knowlege I have set up some self assessment questions.
 | **1** | [Desktop Screen Resolution Stats](https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide) |  |
 | **2** | [Checklists for Design](https://www.checklist.design/) |  |
 | **3** | [Scroll to the future](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations) |  |
-| **6** | [UI/UX Design Glossary. Navigation Elements.](https://uxplanet.org/ui-ux-design-glossary-navigation-elements-b552130711c8) |  |
+| **6** | [UI/UX Design Glossary. Navigation Elements](https://uxplanet.org/ui-ux-design-glossary-navigation-elements-b552130711c8) | 2017 |
 | **7** | [Responsive design glossary](https://polypane.app/responsive-design-glossary/?ref=heydesigner) |  |
 
 
