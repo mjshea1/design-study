@@ -5,6 +5,7 @@
   * [Design Process Outline](my-design-process/design-process-outline.md)
 * [Theory](theory/README.md)
   * [Universal Principles](theory/universal-principles.md)
+  * [Design Principles](theory/design-principles.md)
   * [Gestalt Principles](theory/gestalt-principles.md)
   * [Design Styles](theory/design-styles.md)
   * [Design Quotes](theory/design-quotes.md)
