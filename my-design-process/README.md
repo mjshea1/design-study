@@ -335,4 +335,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 | **10** | [The UX design process in 6 stages](https://www.invisionapp.com/inside-design/6-stages-ux-process/) | From Indside Dsign, InVision |
 | **11** | [7 UX Deliverables](https://www.interaction-design.org/literature/article/7-ux-deliverables-what-will-i-be-making-as-a-ux-designer) | What will I be making as a UX designer? |
 | **12** | [6 Steps Of UX UI Design Process](https://selleo.com/blog/6-steps-of-uxui-design-process) | From stelleo.com |
+| **13** | [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d) | Medium - UX Collective |
 
