@@ -98,3 +98,5 @@ Price: 5 per month - Has been paid till the end of the year
 | Can export notes | Need extra blocks for spacing |
 | Mobile app | Other odd user behavior |
 
+[My Notion ](https://www.notion.so/Design-Study-5b8b34e4a6524f4e8db07d0dcf3815e1)Page
+
