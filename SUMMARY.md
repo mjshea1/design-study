@@ -36,6 +36,7 @@
   * [Side Hustle](career/side-hustle.md)
   * [Links](career/links.md)
 * [Tools](tools/README.md)
+  * [To Try](tools/to-try.md)
   * [User Interface](tools/user-interface.md)
   * [Version Control](tools/version-control.md)
   * [Wiki / Notes / Documentation](tools/wiki.md)
