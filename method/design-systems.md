@@ -163,7 +163,7 @@ These are the major design systems setting industry standard:
 | **9** | [Polaris](https://polaris.shopify.com/) | Shopify |
 | **10** | [A-Frame](https://aframe.io/) | 3D  |
 
-{% page-ref page="../practice/design-system-chart.md" %}
+{% page-ref page="../practice/components-chart.md" %}
 
 ### **Design System Collections**
 
@@ -184,11 +184,12 @@ These are the major design systems setting industry standard:
 * [Bye bye Material Design](https://medium.com/techtrument/bye-bye-material-design-acaebcc7c6b4) - Some of the cons of using Material Design \(2018\)
 * [Making Profit from a Design System](https://medium.com/sketch-app-sources/making-profit-from-a-design-system-a78eea017104)
 * [Designing a Systems Team](https://medium.com/eightshapes-llc/designing-a-systems-team-d22f27a2d81d) - Building the perfect design system team \(2017\)
+* [Design for Coherence, not Consistency](https://blog.prototypr.io/design-for-coherence-not-consistency-8d890760dc4c) - reasons why designing for coherence and not consistency should be preferred
 
 ### Books
 
 * [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook) - Free online book from InVision
 * [Design Systems](https://www.smashingmagazine.com/design-systems-book/) - A Smashing Magazine book by Alla Kholmatova
-* 
+
 
 

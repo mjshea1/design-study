@@ -1,6 +1,4 @@
-# Design System Chart
-
-## Component Table
+# Components Chart
 
 The following represents my efforts at analyzing and comparing some of the most affluent design systems, pattern libraries and frameworks publicly available for purpose of research from a design perspective. Included design systems: [Angular Material](https://material.angular.io/), [Atlassian](https://atlassian.design/), [Carbon](https://www.carbondesignsystem.com/), [Edison](https://edisondesignsystem.com/), [Microsoft Fluent UI](https://developer.microsoft.com/en-us/fluentui#/), [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/), [Material Design](https://material.io/), [Material-UI](https://material-ui.com/), [GitLab Pajamas](https://design.gitlab.com/), [Github Primer](https://primer.style/css/), and [Adobe Spectrum](https://spectrum.adobe.com/).
 
