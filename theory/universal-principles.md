@@ -91,3 +91,7 @@ The usability and learnability of a system is improved when similar parts are ex
 * **Internal**: data should be accompanied by benchmark variables so that clear and substantive comparisons can be made
 * **External**: consistency with other elements in the environment - benefits other consistencies
 
+## To be added
+
+* [Psychological principles for every product designer](https://uxdesign.cc/psychological-principles-every-product-designer-should-know-ddf051e8f6d8)
+
