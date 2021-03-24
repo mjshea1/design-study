@@ -27,6 +27,7 @@ The best UI design tools can fit almost every design process, and hopefully meet
 | :--- | :--- | :--- |
 | **1** | [2020 Design Tools Survey](https://uxtools.co/survey-2020/) | The best yearly design tools survey out there |
 | **2** | [UI Design Tools](https://uxtools.co/tools/design) | Comparison chart - also prototyping, design systems and more |
+| **3** | [The rise of Figma and the Fall of InVision](https://uxdesign.cc/the-precipitous-rise-of-figma-and-fall-of-invision-435f07e8d1b6) | Great content and link of tools and innovation. |
 
 ### Archive
 
