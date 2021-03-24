@@ -9,15 +9,24 @@ sidebarDepth: 1
 
 The best UI design tools can fit almost every design process, and hopefully meet your creative requirements. Now is such a great time to explore new tools and see what's available to design and showcase your projects.
 
-## Links
+### Tools List
 
 |  | Link | Description |
 | :--- | :--- | :--- |
 | **1** | [Habitica](https://habitica.com/static/home) | Motivate yourself to achieve your goals |
-| **3** | [MindManager](https://www.mindjet.com/mindmanager/) | Powerful & Flexible Mind Mapping Tool |
-| **4** | [Milanote](https://milanote.com/) | An easy-to-use tool to organize your ideas and projects into visual boards |
-| **5** | [OmniOutliner](https://www.omnigroup.com/omnioutliner) | Capture and organize big ideas |
-| **6** | [UXPin](https://www.uxpin.com/) | Tool to design, prototype and collaborate |
+| **2** | [MindManager](https://www.mindjet.com/mindmanager/) | Powerful & Flexible Mind Mapping Tool |
+| **3** | [Milanote](https://milanote.com/) | An easy-to-use tool to organize your ideas and projects into visual boards |
+| **4** | [OmniOutliner](https://www.omnigroup.com/omnioutliner) | Capture and organize big ideas |
+| **5** | [UXPin](https://www.uxpin.com/) | Tool to design, prototype and collaborate |
+
+ 
+
+## Links
+
+|  | Link | Description |
+| :--- | :--- | :--- |
+| **1** | [2020 Design Tools Survey](https://uxtools.co/survey-2020/) | The best yearly design tools survey out there |
+| **2** | [UI Design Tools](https://uxtools.co/tools/design) | Comparison chart - also prototyping, design systems and more |
 
 ### Archive
 
