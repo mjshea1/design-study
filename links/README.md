@@ -22,6 +22,16 @@ This is my collection of links I'm collecting for reference. Self-education is e
 
  
 
+## Publications
+
+|  | Link | Description |
+| :--- | :--- | :--- |
+| **1** | [InVision - Design Better](https://www.designbetter.co/books) | Collection of online Books |
+| **2** | [Smashing Magazine - Printed Books](https://www.smashingmagazine.com/printed-books/) | Print and Ebooks |
+| **3** | [Pro Git](https://git-scm.com/book/en/v2) | Free book on Git |
+
+ 
+
 ## Blogs
 
 |  | Link | Description |
@@ -32,17 +42,6 @@ This is my collection of links I'm collecting for reference. Self-education is e
 | **4** | [Interface Lovers](https://interfacelovers.com/) | an online magazine for creative professionals |
 | **5** | [Sidebar](https://sidebar.io/) | 5 Daily Design Links in your Inbox Every Weekday |
 | **6** | [Lightnight Design System - Articles](https://www.lightningdesignsystem.com/articles/) | The Design System, how we built it, and how you can use it |
-| **7** | [Shaping Design](https://www.editorx.com/shaping-design) | Blog for creatives by Editor X \(wix.com\) |
-
- 
-
-## Publications
-
-|  | Link | Description |
-| :--- | :--- | :--- |
-| **1** | [InVision - Design Better](https://www.designbetter.co/books) | Collection of online Books |
-| **2** | [Smashing Magazine - Printed Books](https://www.smashingmagazine.com/printed-books/) | Print and Ebooks |
-| **3** | [Pro Git](https://git-scm.com/book/en/v2) | Free book on Git |
 
  
 

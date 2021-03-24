@@ -15,6 +15,7 @@ I have looked forever and conducted extended research on how to organize and dis
 * [Gitbook](https://www.gitbook.com)
 * [Does anyone else keep their own knowledge wiki?](https://lobste.rs/s/ord0rg/does_anyone_else_keep_their_own_knowledge)
 * [Digital Gardens](https://www.reddit.com/r/DigitalGardens/) - Subreddit
+* [The best tools for documenting design systems](https://hike.one/update/the-best-tools-for-documenting-design-systems) - Also within the wiki realm
 
 
 
