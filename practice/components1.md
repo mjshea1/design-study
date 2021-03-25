@@ -3,7 +3,7 @@ title: Practice
 sidebarDepth: 2
 ---
 
-# Components Set 1
+# Components Set 1 \(A-M\)
 
 ## Accordion
 
@@ -94,16 +94,29 @@ Buttons allow users to take actions, and make choices, with a single tap
 
 #### ➥ Notes
 
-1. Make buttons look like buttons
-2. Put buttons where users expect to find them
-3. Properly size buttons
-   * MIT Touch Lab study found that averages for finger pads are between 10–14mm and fingertips are 8–10mm. This makes 10mm x 10mm a good minimum touch target size.
-4. It should be obvious what buttons do
-5. Avoid using too many buttons
-6. Provide visual or audio feedback on interaction
+* Buttons vs Links
+  * **Buttons** are used when you are **performing an action**, such as: “submit,” “merge,” “create new,” “upload,” etc.
+  * **Links** are used when you’re **navigating to another place**, such as: “view all” page, “Roger Wright“ profile, etc.
+* **Button States:** Normal \(Enabled, Default\), Focus, Hover, Active, Progess/Loading, Disabled
+* **Button Styles:** Contained with Icon, Conntained, Outlined/Ghost, Text, Icon, FAB, Toggle, Multiselect, Split
+* **Styles** communicate importance: Primary, Secondary, Tertiary
+  * Some cases there is no default button
+* Size: **MIT Touch Lab study** found that averages for finger pads are between 10–14mm and fingertips are 8–10mm. This makes 10mm x 10mm a good minimum touch target size.
+* Design for accessibility - Color Contrast, Role = "button"
+
+#### Rules
+
+1. It should be obvious what buttons do
+2. Avoid using to many buttons \(Cognative load\)
+3. Provide visual or audio feedback on interaction
+4. Appearance affects the spead of recognition
+5. Consistancy improved speed and accuracy
+6. Button label is as important as design
+7. Disabled buttons frustrate Users
 
 #### Links
 
+* [Button Design](https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7) — UI component series **-** All you need to know about button design.
 * [UI cheat sheets: buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112) - Actions, Styling, Colors, States, Labeling, Targerts, Positions \(2019\)
 
 ## Button Toggle
