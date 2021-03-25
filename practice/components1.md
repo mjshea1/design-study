@@ -116,7 +116,7 @@ Buttons allow users to take actions, and make choices, with a single tap
 
 #### Links
 
-* [Button Design](https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7) — UI component series **-** All you need to know about button design.
+* ⭐ [Button Design](https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7) — UI component series **-** All you need to know about button design.
 * [UI cheat sheets: buttons](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112) - Actions, Styling, Colors, States, Labeling, Targerts, Positions \(2019\)
 
 ## Button Toggle
