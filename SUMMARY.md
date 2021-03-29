@@ -7,6 +7,7 @@
   * [Universal Principles](theory/universal-principles.md)
   * [Gestalt Principles](theory/gestalt-principles.md)
   * [Design Principles](theory/design-principles.md)
+  * [Usability Principles](theory/usability-principles.md)
   * [Design Styles](theory/design-styles.md)
   * [Design Quotes](theory/design-quotes.md)
 * [Method](method/README.md)
