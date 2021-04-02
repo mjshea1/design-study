@@ -3,6 +3,7 @@
 ## Topics to review
 
 * Me culture vs. we culture
+* Lone Wolf culture \(me culture\)
 
 ## Links:
 
