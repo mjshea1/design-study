@@ -39,7 +39,6 @@
   * [User Interface](tools/user-interface.md)
   * [Version Control](tools/version-control.md)
   * [Wiki / Notes / Documentation](tools/wiki.md)
-  * [Writing](tools/writing.md)
 * [Links](links/README.md)
   * [Products](links/products.md)
   * [In Review](links/review.md)

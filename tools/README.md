@@ -21,8 +21,7 @@ The best UI design tools can fit almost every design process, and hopefully meet
 ## Writing Tools
 
 * [Quillbot](https://quillbot.com) - Save time and immediately improve your writing with QuillBot Paraphrasing and Summarizing Tool
-
-  [Copy.ai](https://www.copy.ai) - AI generated marketing copy in seconds.
+* [Copy.ai](https://www.copy.ai) - AI generated marketing copy in seconds.
 
 
 
