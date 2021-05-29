@@ -63,7 +63,9 @@ Weight refers to the relative thickness of a font’s stroke. A typeface can com
 
 * Common weights: Light, Regular, Medium, Bold
 
-## Reference Links
+
+
+### Reference Links
 
 * [Material Design - Understanding typography](https://material.io/design/typography/understanding-typography.html#type-properties) - Basic type information
 * [Typeface](https://en.wikipedia.org/wiki/Typeface) - Wikipedia
