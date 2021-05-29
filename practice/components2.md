@@ -1,4 +1,4 @@
-# Components Set 2 \(N-Z\)
+# Components Set 2
 
 ## Navigation Bar
 
