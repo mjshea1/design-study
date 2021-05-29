@@ -2,6 +2,12 @@
 
 This will become quickly out of date. Like most modern tools they consistantly add features and updates. _Note last update at bottom of page._
 
+### Links
+
+* ⭐ [2020 Design Tools Survey](https://uxtools.co/survey-2020/) _-_ The best yearly design tools survey out there
+  * [UI Design Tools](https://uxtools.co/tools/design) - Comparison chart
+* [Design Report 2018](https://avocode.com/design-report-2018) - _**OUTDATED**_ The state of design tools and trends in 2018
+
 ## Figma
 
 **Link:** [https://www.figma.com](https://www.figma.com)  

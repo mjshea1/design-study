@@ -36,7 +36,6 @@
   * [Salary Research](career/salary-research.md)
   * [Side Hustle](career/side-hustle.md)
 * [Tools](tools/README.md)
-  * [New](tools/new.md)
   * [User Interface](tools/user-interface.md)
   * [Version Control](tools/version-control.md)
   * [Wiki / Notes / Documentation](tools/wiki.md)
