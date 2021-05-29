@@ -6,11 +6,18 @@ description: 'Training, Certificates, Conferences and Continued Education'
 
 ## Certificates
 
-* [Google Certificate Training](https://grow.google/certificates/) - IT Support, Datat Analytics, Project Management, UX Design
+|  | Link | Topics |
+| :--- | :--- | :--- |
+| **1** | [Google Certificate Training](https://grow.google/certificates/) | IT Support, Datat Analytics, Project Management, UX Design |
+
+
 
 ## Online Learning Repositories
 
-* [InVision Talks](https://www.invisionapp.com/talks) - Ongoing - Various Topics
-* [M-Enabling Summit](https://m-enabling.com/) - Yearly - Web Accessibility
-* [Learn Design System](https://www.learndesignsystem.com/resources) - Ongoing - Various Topics
+|  | Link | Time | Topics |
+| :--- | :--- | :--- | :--- |
+|  |  |  |  |
+| **1** | [InVision Talks](https://www.invisionapp.com/talks) | Ongoing | Various Topics |
+| **2** | [M-Enabling Summit](https://m-enabling.com/) | Yearly | Web Accessability |
+| **3** | [Learn Design System](https://www.learndesignsystem.com/resources) | Ongoing | Various Topics |
 

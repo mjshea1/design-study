@@ -20,13 +20,15 @@ To retain knowlege I have set up some self assessment questions.
 
 ## Resources
 
-|  | Link | Year |
-| :--- | :--- | ---: |
-| **1** | [Inclusive Design from Microsoft](https://www.microsoft.com/design/inclusive/) |  |
-| **2** | [40 Tips For Inclusive And Accessible User Interface Design](https://trydesignlab.com/blog/40-tips-inclusion-accessibility-user-interface-design/) | 2018 |
-| **3** | [ Apple Accessibility](https://www.apple.com/accessibility/) |  |
-| **4** | [iOS 14 accessibility overview via Stark](https://www.getstark.co/blog/where-accessibility-shines-in-ios-14) | 2020 |
-| **5** | [UX Design CC A11Y Checklist](https://uxdesign.cc/accessibility-checklist-195da7ab64fb) | 2020 |
+* [Inclusive Design from Microsoft](https://www.microsoft.com/design/inclusive/)
+* [40 Tips For Inclusive And Accessible User Interface Design](https://trydesignlab.com/blog/40-tips-inclusion-accessibility-user-interface-design/)
+* [ Apple Accessibility](https://www.apple.com/accessibility/)
+* [iOS 14 accessibility overview via Stark](https://www.getstark.co/blog/where-accessibility-shines-in-ios-14)
+* [UX Design CC A11Y Checklist](https://uxdesign.cc/accessibility-checklist-195da7ab64fb)
+
+**Links**
+
+* [How to Create Interfaces that Benefit All: Accessibility Testing and Inclusive Design Principles](https://uxplanet.org/how-to-create-interfaces-that-benefit-all-accessibility-testing-and-inclusive-design-principles-ed15477bcce0) - Guide
 
 
 

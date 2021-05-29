@@ -33,6 +33,7 @@
   * [Training](career/training.md)
   * [Leadership](career/leadership.md)
   * [Interview Questions](career/interview-questions.md)
+  * [Job Search](career/job-search.md)
   * [Salary Research](career/salary-research.md)
   * [Side Hustle](career/side-hustle.md)
 * [Tools](tools/README.md)
