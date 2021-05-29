@@ -321,19 +321,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet ti
 
 ## References
 
-|  | Link | Description / Author |
-| :--- | :--- | :--- |
-| **1** | [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/) | Nielsen Norman Group Design Thinking Summary |
-| **2** | [What is Design Thinking?](https://designthinkingforeducators.com/design-thinking/) | Design Thinking Process for Educators |
-| **3** | [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking) | Interactive Design Foundation Design Thinking |
-| **4** | [Discover Design](https://discoverdesign.org/handbook) | Design definition from Chicago Architecture Center |
-| **5** | [Process Design & Execution](https://www.next4biz.com/process-design-execution/) | Designing by Yourself - next4bizz |
-| **6** | [Design Process: 3 Most Popular Processes](https://medium.com/pminsider/3-product-design-processes-and-when-to-use-them-2c6552522637) | & When To Use Them |
-| **7** | [What Exactly Is a “Deliverable”?](https://webdesign.tutsplus.com/articles/what-exactly-is-a-deliverable--cms-28819) | Design Process deliverables |
-| **8** | [The 13 Step Graphic Design Process](https://www.shillingtoneducation.com/blog/graphic-design-process/) | The Graphic Design Process |
-| **9** | [UX Design Processes](https://www.uxbeginner.com/ux-design-processes/) | The process from a UX perspective |
-| **10** | [The UX design process in 6 stages](https://www.invisionapp.com/inside-design/6-stages-ux-process/) | From Indside Dsign, InVision |
-| **11** | [7 UX Deliverables](https://www.interaction-design.org/literature/article/7-ux-deliverables-what-will-i-be-making-as-a-ux-designer) | What will I be making as a UX designer? |
-| **12** | [6 Steps Of UX UI Design Process](https://selleo.com/blog/6-steps-of-uxui-design-process) | From stelleo.com |
-| **13** | [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d) | Medium - UX Collective |
+* [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/) - Nielsen Norman Group Design Thinking Summary
+* [What is Design Thinking?](https://designthinkingforeducators.com/design-thinking/) - Design Thinking Process for Educators
+* [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking) - Interactive Design Foundation Design Thinking
+* [Discover Design](https://discoverdesign.org/handbook) - Design definition from Chicago Architecture Center
+* [Process Design & Execution](https://www.next4biz.com/process-design-execution/) - Designing by Yourself - next4bizz
+* [Design Process: 3 Most Popular Processes](https://medium.com/pminsider/3-product-design-processes-and-when-to-use-them-2c6552522637) - & When To Use Them
+* [What Exactly Is a “Deliverable”?](https://webdesign.tutsplus.com/articles/what-exactly-is-a-deliverable--cms-28819) - Design process deliverables
+* [The 13 Step Graphic Design Process](https://www.shillingtoneducation.com/blog/graphic-design-process/) 
+* [UX Design Processes](https://www.uxbeginner.com/ux-design-processes/) - The process from a UX perspective
+* [The UX design process in 6 stages](https://www.invisionapp.com/inside-design/6-stages-ux-process/) - From Inside Design, InVision
+* [7 UX Deliverables](https://www.interaction-design.org/literature/article/7-ux-deliverables-what-will-i-be-making-as-a-ux-designer)
+* [6 Steps Of UX UI Design Process](https://selleo.com/blog/6-steps-of-uxui-design-process) - From stelleo.com
+* [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d) - Medium - UX Collective
 

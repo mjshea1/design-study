@@ -171,6 +171,8 @@ These are the major design systems setting industry standard:
 * [Design Sysem Repo](https://designsystemsrepo.com/design-systems/) - A comprehensive and curated list of design systems
 * [Website Style Guide Resources](http://styleguides.io) - Pattern libraries, code standards docs and style guides
 
+ 
+
 ## Links
 
 * [Getting Started with Design Systems — Part 1](https://medium.com/thinking-design/design-systems-101-what-why-how-e58ee0e7a48)
