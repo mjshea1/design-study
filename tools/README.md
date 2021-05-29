@@ -16,7 +16,15 @@ The best UI design tools can fit almost every design process, and hopefully meet
 * [UXPin](https://www.uxpin.com/) - Tool to design, prototype and collaborate
 * [Coggle](https://coggle.it/?lang=en-US) - freeware mind mapping web application - produces hierarchically structured documents, like a branching tree
 
- 
+
+
+## Writing Tools
+
+* [Quillbot](https://quillbot.com) - Save time and immediately improve your writing with QuillBot Paraphrasing and Summarizing Tool
+
+  [Copy.ai](https://www.copy.ai) - AI generated marketing copy in seconds.
+
+
 
 ## Articles
 

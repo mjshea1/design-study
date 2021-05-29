@@ -83,3 +83,12 @@ This is my collection of links I'm collecting for reference. Self-education is e
 |  | **Atom** |  |
 | **9** | [Atom Customization](https://flight-manual.atom.io/using-atom/sections/basic-customization/) | Customize Atom: A hackable text editor for the 21st Century |
 
+ 
+
+## Shops
+
+Awesome shops with awesome design work for sale.
+
+* [https://shop.joannabehar.com](https://shop.joannabehar.com) - Enamel Pins, Stickers, Accessories, Stationary
+* [https://shop.mrjakeparker.com](https://shop.mrjakeparker.com) - Art Books, Comics, Prints, Stickers, Pins
+
