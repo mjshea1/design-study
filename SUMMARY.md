@@ -40,7 +40,7 @@
   * [Version Control](tools/version-control.md)
   * [Wiki / Notes / Documentation](tools/wiki.md)
 * [Links](links/README.md)
-  * [Products](links/products.md)
+  * [Purchase](links/purchase.md)
   * [In Review](links/review.md)
 * [‣](setup.md)
 

@@ -8,7 +8,7 @@ Welcome to my study of design. I’m **Matthew Shea**, a UI/UX Designer and crea
 
 This site is my **personal wiki** to continue my journey of never ending self learning and to capture my knowledge along the way.
 
-Everything is in progress and will hopefully always be. The design projects I work on throughout my career bring new exciting experiences. They require exploration and reserach building on the knowledge I hope to capture here.
+_**Everything is in progress**_. The design projects I work on throughout my career bring new exciting experiences. They require exploration and reserach building on the knowledge I hope to capture here.
 
 ## Let's connect
 
