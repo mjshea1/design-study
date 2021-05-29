@@ -35,8 +35,6 @@ This is my collection of links I'm collecting for reference. Self-education is e
 * [Smashing Magazine - Printed Books](https://www.smashingmagazine.com/printed-books/) - Print and Ebooks
 * [Pro Git](https://git-scm.com/book/en/v2) - Best free book on Git
 
- 
-
 ## Resources
 
 * [Facebook Design Resources](https://facebook.design/toolsandresources/) - collection of device assets, prototyping tools and other design resources
