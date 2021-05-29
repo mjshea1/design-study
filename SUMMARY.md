@@ -41,6 +41,6 @@
   * [Wiki / Notes / Documentation](tools/wiki.md)
 * [Links](links/README.md)
   * [Purchase](links/purchase.md)
-  * [In Review](links/review.md)
+  * [Review](links/review.md)
 * [‣](setup.md)
 
