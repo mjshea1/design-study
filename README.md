@@ -13,4 +13,3 @@ Everything is in progress and will hopefully always be. The design projects I wo
 ## Let's connect
 
 Let's connect on [Twitter](https://twitter.com/Matthew_J_Shea), [Dribbble](https://dribbble.com/Mshea), [Instagram](https://www.instagram.com/matthew.shea.design/), and [LinkedIn](https://www.linkedin.com/in/matthew-james-shea/)
-
