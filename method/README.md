@@ -12,7 +12,7 @@ Design methods offer a number of different kinds of activities that a designer m
 
 ## Quizzes
 
-To retain knowlege I have set up some self assessment questions.
+<mark>To retain knowlege I have set up some self assessment questions.</mark>
 
 📝 **Design Methods** → Answer List
 
