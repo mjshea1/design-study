@@ -14,6 +14,10 @@ Design methods offer a number of different kinds of activities that a designer m
 
 <mark>To retain knowlege I have set up some self assessment questions.</mark>
 
+<span style="background-color: #FFFF00">Marked text</span>
+<mark>Marked text</mark>
+
+
 📝 **Design Methods** → Answer List
 
 📝 **Design Systems - General** → Answer List
